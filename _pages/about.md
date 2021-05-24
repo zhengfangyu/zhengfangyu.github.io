@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zheng Fangyu's Home Page"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+
 ======
 I am a assitant researcher in Institute of Information Engineer, Chinese Acadamy of Sciences (IIE-CAS).
 
@@ -17,7 +17,7 @@ My research interests lie in the general area of cryptographic and security, par
 I received my Bachelor’s Degree in University of Science and Technology of China (USTC), and received my PhD in University of Chinese Acadamy of Sciences (UCAS).
 
   
-Latest Publications (* denotes the corresponding author)
+Latest Publications 
 ======
 1. WASA 2021
 1. WASA 2021
@@ -28,11 +28,13 @@ Latest Publications (* denotes the corresponding author)
 
 1. *Fangyu Zheng*,
 
-[Full publications](/publications/)
+(* denotes the corresponding author)
+
+See [full publications](/publications/).
 
 Projects
 ======
-1. 自然基金
+1. 
 2. 
 
 
