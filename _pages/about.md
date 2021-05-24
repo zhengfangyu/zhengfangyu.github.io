@@ -17,9 +17,18 @@ My research interests lie in the general area of cryptographic and security, par
 I received my Bachelor’s Degree in University of Science and Technology of China (USTC), and received my PhD in University of Chinese Acadamy of Sciences (UCAS).
 
   
-Latest Publications
+Latest Publications (* denotes the corresponding author)
 ======
+1. WASA 2021
+1. WASA 2021
+1. Jingqiang Lin, *Fangyu Zheng* *, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”(《密码软件实现和密钥安全), China Machine Press (机械工业出版社), ISBN 9787111679578, 2021.
+1. Lili Gao, *Fangyu Zheng* *, Niall Emmart, Jiankuo Dong, Jingqiang Lin, Charles Weems, “DPF-ECC: Accelerating Elliptic Curve Cryptography with Floating-point Computing Power of GPUs”, 34th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2020.
+1. Ziyang Wang, *Fangyu Zheng* *, Jingqiang Lin, Guang Fan, Jiankuo Dong, “SEGIVE: A Practical Framework of Secure GPU Execution in Virtualization Environment”, 39th IEEE International Performance Computing and Communications Conference (IPCCC), 2020.
+1. *Fangyu Zheng*, 
 
+1. *Fangyu Zheng*,
+
+[Full publications](/publications/)
 
 Projects
 ======
