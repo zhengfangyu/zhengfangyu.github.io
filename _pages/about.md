@@ -10,34 +10,35 @@ redirect_from:
 
 About Me
 ======
-*[^_^]:I am a Ph.D. student in the Computer Science Department at Stanford University, advised by Prof. Stefano Ermon. [Curriculum Vitae] [Google Scholar]
+I am a assitant researcher in Institute of Information Engineer, Chinese Acadamy of Sciences (IIE-CAS).
 
-*[^_^]:My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
+My research interests lie in the general area of cryptographic and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing.
 
-*[^_^]:I received my Bachelor’s Degree in Shanghai Jiao Tong University. My undergraduate research advisors are Prof. Yong Yu, Prof. Weinan Zhang and Prof. Jun Wang.
+I received my Bachelor’s Degree in University of Science and Technology of China (USTC), and received my PhD in University of Chinese Acadamy of Sciences (UCAS).
 
-News!
+  
+Latest Publications
 ======
+
 
 Projects
 ======
-1. R&D Projects
-    1.
-    2.
-2. Standard Projects
-    1.
-    2.
+1. 自然基金
+2. 
 
 
 
-Selected Publications
+Standards
 ======
-
+1. GB/T 37092-2018 [《信息安全技术 密码模块安全要求》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657) "Information security technology—Security requirements for cryptographic modules"
+1. GB/T 39786-2021 [《信息安全技术 信息系统密码应用基本要求》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC) Information security technology—Baseline for information system cryptography application
+1. GB/T 40018-2021 [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF) "Information security technology—Certificate request and application protocol based on multiple channels"
 
 Acadamic Services
 ======
 1. PC member: ACNS-SCI 2020/2021
 1. Journal reviewer: IEEE Transactions on Computers (TC), PeerJ Computer Science
+
 
 
 *[^_^]:This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
@@ -68,7 +69,7 @@ Acadamic Services
 *[^_^]:**Markdown generator**
 
 *[^_^]:I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+*[^_^]:) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
 *[^_^]:How to edit your site's GitHub repository
 *[^_^]:------
