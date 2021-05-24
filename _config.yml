@@ -13,7 +13,7 @@ name                     : &name "Zheng, Fangyu"
 description              : &description "personal description"
 url                      : https://zhengfangyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zhengfangyu/zhengfangyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Fangyu，郑昉昱"
+  name             : "Zheng Fangyu(郑昉昱)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Zheng Fangyu's Bio"
   location         : #"Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TWyTZp0AAAAJ&hl=en"
-  email            : zhengfy1028@hotmail.com
+  email            :  zhengfy1028@hotmail.com
   researchgate     :  "https://www.researchgate.net/profile/Fangyu-Zheng"
   uri              :
   bitbucket        :
