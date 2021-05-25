@@ -4,196 +4,45 @@ title: "Full Publications"
 author_profile: true
 ---
 
-## Locations of key files/directories
+Accepted Papers
+======
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+1. [Conference-WASA2021] Fanguang, *Fangyu Zheng* *, Jiankuo Dong, Jingqiang Lin, Lili Gao, Rong Wei, Lipeng Wan, "A Secure and Efficient Cryptographic Co-processor Based on Embedded GPU System", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021, **accepted to appear**.
+1. [Conference-WASA2021] Jiankuo Dong, Guang Fan, *Fangyu Zheng* *, Jingqiang Lin, Zhe Liu and Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021, **accepted to appear**.
 
-## Tips and hints
+Published Papers
+======
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+1. [Book] Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
+1. [Conference-IPDPS2020] Lili Gao, *Fangyu Zheng* *, Niall Emmart, Jiankuo Dong, Jingqiang Lin, Charles Weems, “DPF-ECC: Accelerating Elliptic Curve Cryptography with Floating-point Computing Power of GPUs”, 34th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2020. [doi: 10.1109/IPDPS47924.2020.00058](https://ieeexplore.ieee.org/abstract/document/9139772)
+1. [Conference-IPCCC2020] Ziyang Wang, *Fangyu Zheng* *, Jingqiang Lin, Guang Fan, Jiankuo Dong, “SEGIVE: A Practical Framework of Secure GPU Execution in Virtualization Environment”, 39th IEEE International Performance Computing and Communications Conference (IPCCC), 2020. [doi: 10.1109/IPCCC50635.2020.9391574](https://ieeexplore.ieee.org/document/9391574)
+1. [Journal-密码学报] Rong Wei, *Fangyu Zheng* *, Jingqiang Lin, "Implementation of a General-purpose Cryptography Library Supporting Domestic Algorithm with JavaScript", Journal of Cryptologic Research, 2020. [doi: 10.13868/j.cnki.jcr.000392](http://www.jcr.cacrnet.org.cn/CN/10.13868/j.cnki.jcr.000392)
+1. [Journal-密码学报] *Fangyu Zheng*, Jingqiang Lin *, Rong Wei, Qiongxiao Wang,"Research Progresses on Security Applications of Cryptography and Discussions on Validation of Software Cryptographic Modules", Journal of ryptologic Research, 2020. [doi: 10.13868/j.cnki.jcr.000369](http://www.jcr.cacrnet.org.cn/CN/10.13868/j.cnki.jcr.000369)
+1. [Journal-信息安全学报] Jiankuo Dong, *Fangyu Zheng* *, Jingqiang Lin, “Implementing High-performance X25519/448 Key Agreement Scheme in General Purpose GPUs”, Chinese Journal of Cyber Security, 2020.
+1. [Conference-信息安全研究] Jingqiang Lin, Fangyu Zheng, Yuewu Wang, “Advances in Cryptographic Key Protection”, Chinese Journal of Information Security Research, Vol. 5, No. 1, pp. 68-74, 2019.
+1. [Conference-信息安全研究] Fangyu Zheng, Jiankuo Dong, Jingqiang Lin, Lili Gao, “High-performance Cryptographic Computations in GPUs”, Chinese Journal of Information Security Research, Vol. 5, No. 1, pp. 88-96, 2019.
+1. [Conference-IPDPS2018] Jiankuo Dong, *Fangyu Zheng*, Niall Emmart, Jingqiang Lin, Charles C. Weems, “sDPF-RSA: Utilizing Floating-point Computing Power of GPUs for Massive Digital Signature Computations”, 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2018.
+1. [Conference-CNS2018] Jiankuo Dong, Fangyu Zheng, Juanjuan Cheng, Jingqiang Lin, Wuqiong Pan, Ziyang Wang, “Towards High-performance X25519/448 Key Agreement in General Purpose GPUs”, 6th IEEE Conference on Communications and Network Security (CNS), 2018.
+1. [Conference-CNS2018] Harnessing the cloud for secure and efficient outsourcing of non-negative matrix factorization
+S Pan, F Zheng, WT Zhu, Q Wang 2018 IEEE Conference on Communications and Network Security (CNS), 1-9
+1. [Conference-Securecomm2018] Wangzhao Cheng, Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Huorong Li, Bingyu Li, “Building Your Private Cloud Storage on Public Cloud Service Using Embedded GPUs”, 14th International Conference on Security and Privacy in Communication Networks (SecureComm), 2018.
+1. [Conference-ARITH2018] N Emmart, F Zheng, C Weems A New Variant of the Barrett Algorithm Applied to Quotient Selection, 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH), 138-144		2018
+1. [Conference-ARITH2018] Faster modular exponentiation using double precision floating point arithmetic on the GPU
+1. [Conference-WASA2018] N Emmart, F Zheng, C Weems, 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH), 130-137
+Secure and efficient outsourcing of large-scale matrix inverse computation Shiran Pan, Qiongxiao Wang, Fangyu Zheng, Jiankuo Dong International Conference on Wireless Algorithms, Systems, and Applications.
+1. [Conference-ICICS2018] Ziyang Wang, Fangyu Zheng, Jingqiang Lin, Jiankuo Dong, “Utilizing GPU Virtualization to Protect the Private Keys of GPU Cryptographic Computation”, 20th International Conference on Information and Communications Security (ICICS), pp. 142-157, 2018.
+1. [Journal-TIFS2017]An efficient elliptic curve cryptography signature server with GPU acceleration
+W Pan, F Zheng, Y Zhao, WT Zhu, J Jing IEEE Transactions on Information Forensics and Security 12 (1), 111-122
+1. [Conference-ICICS2017] Wangzhao Cheng, Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Huorong Li, Bingyu Li, “High-Performance Symmetric Cryptography Server with GPU Acceleration”, 18th International Conference on Information and Communications Security (ICICS), 2017.
+1. [Journal-SCN] Jiankuo Dong, Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Utilizing the Double-precision Floating-point Computing Power of GPUs for RSA Acceleration”, Security and Communication Networks (SCN), Article 3508786, 2017.
+1. [Conference-SAC2016] Yuan Zhao, Wuqiong Pan, Jingqiang Lin, Peng Liu, Cong Xue, Fangyu Zheng, “PhiRSA: Exploiting the Computing Power of Vector Instructions on Intel Xeon Phi for RSA”, 23rd Conference on Selected Areas in Cryptography (SAC), 2016.
+1. [Conference-SEC2016] Yuan Zhao, Jingqiang Lin, Wuqiong Pan, Cong Xue, Fangyu Zheng, Ziqiang Ma, “RegRSA: Using Registers as Buffers to Resist Memory Disclosure Attacks”, 31st International Conference on Systems Security and Privacy Protection (IFIP SEC), 2016.
+1. [Conference-ISC2014] Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Floating-Point Computing Power of GPUs for RSA”, 17th Information Security Conference (ISC), **Best Student Paper Award**, 2014.
+1. [Conference-WISA2014] Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Potential of GPUs for Modular Multiplication in ECC”, 15th International Workshop on Information Security Applications (WISA), 2014.
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
-## Markdown guide
 
-### Header three
 
-#### Header four
 
-##### Header five
 
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+(* denotes the corresponding author)
