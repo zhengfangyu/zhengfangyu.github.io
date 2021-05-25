@@ -2,8 +2,6 @@
 permalink: /full-publications/
 title: "Full Publications"
 author_profile: true
-redirect_from: 
-  - /full-publications/
 ---
 
 ## Locations of key files/directories

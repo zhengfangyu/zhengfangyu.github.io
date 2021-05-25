@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng, Fangyu's Website"
+title                    : "zhengfangyu.github.io"
 title_separator          : "-"
 name                     : &name "Zheng, Fangyu"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zheng Fangyu(郑昉昱)"
   avatar           : "zhengfangyu_potrait.jpg"
-  bio              : "Zheng Fangyu's Bio"
+  bio              : #"Zheng Fangyu's Bio"
   location         : #"Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
