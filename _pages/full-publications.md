@@ -8,7 +8,7 @@ Accepted Papers
 ======
 
 1. **[Conference-WASA2021]** Fanguang, *Fangyu Zheng* *, Jiankuo Dong, Jingqiang Lin, Lili Gao, Rong Wei, Lipeng Wan, "A Secure and Efficient Cryptographic Co-processor Based on Embedded GPU System", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021, **accepted to appear**.
-1. **[Conference-WASA2021]** Jiankuo Dong, Guang Fan, *Fangyu Zheng* *, Jingqiang Lin, Zhe Liu and Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021, **accepted to appear**.
+1. **[Conference-WASA2021]** Jiankuo Dong, Guang Fan, *Fangyu Zheng* *, Jingqiang Lin, Zhe Liu, Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021, **accepted to appear**.
 
 Published Papers
 ======
@@ -37,10 +37,5 @@ Wuqiong Pan, *Fangyu Zheng* , Yuan Zhao, Wen-Tao Zhu *, Jiwu Jing, IEEE Transact
 1. **[Conference-SEC2016]** Yuan Zhao, Jingqiang Lin, Wuqiong Pan, Cong Xue, *Fangyu Zheng*, Ziqiang Ma, “RegRSA: Using Registers as Buffers to Resist Memory Disclosure Attacks”, 31st International Conference on Systems Security and Privacy Protection (IFIP SEC), 2016.
 1. **[Conference-ISC2014]** *Fangyu Zheng*, Wuqiong Pan, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Floating-Point Computing Power of GPUs for RSA”, 17th Information Security Conference (ISC), **Best Student Paper Award**, 2014.
 1. **[Conference-WISA2014]** *Fangyu Zheng*, Wuqiong Pan, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Potential of GPUs for Modular Multiplication in ECC”, 15th International Workshop on Information Security Applications (WISA), 2014.
-
-
-
-
-
 
 (* denotes the corresponding author)
