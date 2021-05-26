@@ -3,10 +3,11 @@ permalink: /full-publications/
 title: "Full Publications"
 author_profile: true
 ---
+* denotes the corresponding author.
 
 Accepted Papers
 ======
-
+1. **[Conference-Securecomm2021]** Lipeng Wan, *Fangyu Zheng* *, Jingqiang Lin, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", 17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2021, **accepted to appear**.
 1. **[Conference-WASA2021]** Fanguang, *Fangyu Zheng* *, Jiankuo Dong, Jingqiang Lin, Lili Gao, Rong Wei, Lipeng Wan, "A Secure and Efficient Cryptographic Co-processor Based on Embedded GPU System", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021, **accepted to appear**.
 1. **[Conference-WASA2021]** Jiankuo Dong, Guang Fan, *Fangyu Zheng* *, Jingqiang Lin, Zhe Liu, Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021, **accepted to appear**.
 
@@ -37,4 +38,3 @@ Published Papers
 1. **[Conference-ISC2014]** *Fangyu Zheng*, Wuqiong Pan *, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Floating-Point Computing Power of GPUs for RSA”, 17th Information Security Conference (ISC), **Best Student Paper Award**, 2014. [doi: 10.1007/978-3-319-13257-0_12](https://link.springer.com/chapter/10.1007/978-3-319-13257-0_12)
 1. **[Conference-WISA2014]** *Fangyu Zheng*, Wuqiong Pan *, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Potential of GPUs for Modular Multiplication in ECC”, 15th International Workshop on Information Security Applications (WISA), 2014. [doi: 10.1007/978-3-319-15087-1_23](https://link.springer.com/chapter/10.1007/978-3-319-15087-1_23)
 
-(* denotes the corresponding author)

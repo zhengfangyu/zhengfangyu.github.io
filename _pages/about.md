@@ -23,6 +23,7 @@ My job focuses on applying cryptography in reality. Parts of my achievements inc
 
 Latest Publications 
 ======
+1. Lipeng Wan, *Fangyu Zheng* *, Jingqiang Lin, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", 17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2021, **accepted to appear**.
 1. Fanguang, *Fangyu Zheng* *, Jiankuo Dong, Jingqiang Lin, Lili Gao, Rong Wei, Lipeng Wan, "A Secure and Efficient Cryptographic Co-processor Based on Embedded GPU System", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021.  **accepted to appear**.
 1. Jiankuo Dong, Guang Fan, *Fangyu Zheng* *, Jingqiang Lin, Zhe Liu and Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021，**accepted to appear**.
 1. Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
