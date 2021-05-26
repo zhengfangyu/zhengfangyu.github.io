@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zheng Fangyu(郑昉昱)"
   avatar           : "zhengfangyu_potrait.jpg"
-  bio              : #"Zheng Fangyu's Bio"
+  bio              : "Cryptography and GPU"
   location         : #"Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
