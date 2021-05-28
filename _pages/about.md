@@ -56,7 +56,7 @@ Acadamic Services
 
 Co-supervised students
 ======
-1. Juanjuan Chen (Master, graduated in 2018)
+1. Juanjuan Cheng (Master, graduated in 2018)
 1. Wangzhao Cheng (Ph.D., graduated in 2019)
 1. Jiankuo Dong (Ph.D., graduated in 2019)
 1. Ziyang Wang (Ph.D., graduated in 2021)
