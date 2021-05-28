@@ -3,7 +3,8 @@ permalink: /full-publications/
 title: "Full Publications"
 author_profile: true
 ---
-* denotes the corresponding author.
+ 
+\* denotes the corresponding author.
 
 Accepted Papers
 ======
