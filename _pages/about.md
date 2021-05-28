@@ -53,3 +53,14 @@ Acadamic Services
 ======
 1. PC member: ACNS-SCI 2020/2021
 1. Journal reviewer: IEEE Transactions on Computers (TC), PeerJ Computer Science
+
+Co-supervised students
+======
+1. Juanjuan Chen (Master, graduated in 2018)
+1. Wangzhao Cheng (Ph.D., graduated in 2019)
+1. Jiankuo Dong (Ph.D., graduated in 2019)
+1. Ziyang Wang (Ph.D., graduated in 2021)
+1. Rong Wei (Ph.D. candidate)
+1. Lili Gao (Ph.D. candidate)
+1. Lipeng Wang (Ph.D. candidate)
+1. Guang Fan (Ph.D. candidate)
