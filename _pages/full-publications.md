@@ -8,14 +8,14 @@ author_profile: true
 
 Accepted Papers
 ======
-1. **[Journal-TIFS2021]** Lili Gao, *Fangyu Zheng* *, Rong Wei, Jiankuo Dong, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, [doi: 10.1109/TIFS.2021.3098987]().
+
 1. **[Conference-Securecomm2021]** Lipeng Wan, *Fangyu Zheng* *, Jingqiang Lin, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", 17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2021, **accepted to appear**.
 1. **[Conference-WASA2021]** Guang Fan, *Fangyu Zheng* *, Jiankuo Dong, Jingqiang Lin, Lili Gao, Rong Wei, Lipeng Wan, "A Secure and Efficient Cryptographic Co-processor Based on Embedded GPU System", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021, **accepted to appear**.
 1. **[Conference-WASA2021]** Jiankuo Dong, Guang Fan, *Fangyu Zheng* *, Jingqiang Lin, Zhe Liu, Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021, **accepted to appear**.
 
 Published Papers
 ======
-
+1. **[Journal-TIFS2021]** Lili Gao, *Fangyu Zheng* *, Rong Wei, Jiankuo Dong, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, [doi: 10.1109/TIFS.2021.3098987](https://ieeexplore.ieee.org/document/9492115).
 1. **[Book]** Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
 1. **[Conference-IPDPS2020]** Lili Gao, *Fangyu Zheng* *, Niall Emmart, Jiankuo Dong, Jingqiang Lin, Charles Weems, “DPF-ECC: Accelerating Elliptic Curve Cryptography with Floating-point Computing Power of GPUs”, 34th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2020. [doi: 10.1109/IPDPS47924.2020.00058](https://ieeexplore.ieee.org/abstract/document/9139772)
 1. **[Conference-IPCCC2020]** Ziyang Wang, *Fangyu Zheng* *, Jingqiang Lin, Guang Fan, Jiankuo Dong, “SEGIVE: A Practical Framework of Secure GPU Execution in Virtualization Environment”, 39th IEEE International Performance Computing and Communications Conference (IPCCC), 2020. [doi: 10.1109/IPCCC50635.2020.9391574](https://ieeexplore.ieee.org/document/9391574)
