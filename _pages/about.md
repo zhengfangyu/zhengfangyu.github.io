@@ -23,10 +23,8 @@ My job focuses on applying cryptography in reality. Parts of my achievements inc
 
 Latest Publications (\* denotes the corresponding author.)
 ======
+1. Rong Wei, *Fangyu Zheng* *, Lili Gao, Jiankuo Dong, Guang Fan, Lipeng Wan, Jingqiang Lin, Yuewu Wang,  “Heterogeneous-PAKE: Bridging the Gap between PAKE Protocols and their Real-World Deployment”, 37th Annual Computer Security Applications Conference (ACSAC), 2021, **accepted to appear**.
 1. Lili Gao, *Fangyu Zheng* *, Rong Wei, Jiankuo Dong, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, [doi: 10.1109/TIFS.2021.3098987](https://ieeexplore.ieee.org/document/9492115).
-1. Lipeng Wan, *Fangyu Zheng* *, Jingqiang Lin, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", 17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2021, **accepted to appear**.
-1. Guang Fan, *Fangyu Zheng* *, Jiankuo Dong, Jingqiang Lin, Lili Gao, Rong Wei, Lipeng Wan, "A Secure and Efficient Cryptographic Co-processor Based on Embedded GPU System", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021.  **accepted to appear**.
-1. Jiankuo Dong, Guang Fan, *Fangyu Zheng* *, Jingqiang Lin, Zhe Liu and Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021，**accepted to appear**.
 1. Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
 
 
