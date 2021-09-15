@@ -23,9 +23,9 @@ My job focuses on applying cryptography in reality. Parts of my achievements inc
 
 Latest Publications (\* denotes the corresponding author.)
 ======
-1. Rong Wei, *Fangyu Zheng* *, Lili Gao, Jiankuo Dong, Guang Fan, Lipeng Wan, Jingqiang Lin, Yuewu Wang,  “Heterogeneous-PAKE: Bridging the Gap between PAKE Protocols and their Real-World Deployment”, 37th Annual Computer Security Applications Conference (ACSAC), 2021, **accepted to appear**.
-1. Lili Gao, *Fangyu Zheng* *, Rong Wei, Jiankuo Dong, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, [doi: 10.1109/TIFS.2021.3098987](https://ieeexplore.ieee.org/document/9492115).
-1. Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
+1. Rong Wei, **Fangyu Zheng** *, Lili Gao, Jiankuo Dong, Guang Fan, Lipeng Wan, Jingqiang Lin, Yuewu Wang,  “Heterogeneous-PAKE: Bridging the Gap between PAKE Protocols and their Real-World Deployment”, 37th Annual Computer Security Applications Conference (ACSAC), 2021, **accepted to appear**.
+1. Lili Gao, **Fangyu Zheng** *, Rong Wei, Jiankuo Dong, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, [doi: 10.1109/TIFS.2021.3098987](https://ieeexplore.ieee.org/document/9492115).
+1. Jingqiang Lin, **Fangyu Zheng**, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
 
 
 See [full publications](/full-publications/).
@@ -33,7 +33,7 @@ See [full publications](/full-publications/).
 Fundings and Projects
 ======
 1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. RAGR20210131), 2021.
-1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund, 2021.
+1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund (Grant No. RAGR20210131), 2021.
 1.  National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.
 1.  National Key R&D Plan of China, "Cryptography Application Security Evaluation of Mobile Government Service", 2018.
 1.  National Key R&D Plan of China, "Architecuture of Cryptographic Service Supporting Infrastructures and Research on Cryptographic Key Management Technology in the Mobile Internet (Grant No. 2017YFB0802101)", 2017.  
@@ -54,8 +54,13 @@ See [full standards](/standards/).
 
 Acadamic Services
 ======
-1. PC member: ACNS-SCI 2020/2021
-1. Journal reviewer: IEEE Transactions on Computers (TC), PeerJ Computer Science
+1. 2020
+    1. ACNS-SCI 2020 PC member
+    1. PeerJ Computer Science 2021 Reviewer
+1. 2021
+    1. ACNS-SCI 2021 PC member
+    1. IEEE Transactions on Computers (TC) Reviewer
+    1. Chinese Journal of Computers Reviewer
 
 Co-supervised students
 ======
