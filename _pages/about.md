@@ -23,6 +23,7 @@ My job focuses on applying cryptography in reality. Parts of my achievements inc
 
 Latest Publications (\* denotes the corresponding author.)
 ======
+1. Jiankuo Dong, **Fangyu Zheng** *, Jiangqiang Lin, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", ACM Transactions on Embedded Computing Systems (TECS),  **accepted to appear**.
 1. Rong Wei, **Fangyu Zheng** *, Lili Gao, Jiankuo Dong, Guang Fan, Lipeng Wan, Jingqiang Lin, Yuewu Wang,  “Heterogeneous-PAKE: Bridging the Gap between PAKE Protocols and their Real-World Deployment”, 37th Annual Computer Security Applications Conference (ACSAC), 2021, **accepted to appear**.
 1. Lili Gao, **Fangyu Zheng** *, Rong Wei, Jiankuo Dong, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, [doi: 10.1109/TIFS.2021.3098987](https://ieeexplore.ieee.org/document/9492115).
 1. Jingqiang Lin, **Fangyu Zheng**, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
@@ -54,13 +55,13 @@ See [full standards](/standards/).
 
 Acadamic Services
 ======
-1. 2020
-    1. ACNS-SCI 2020 PC member
-    1. PeerJ Computer Science 2021 Reviewer
-1. 2021
-    1. ACNS-SCI 2021 PC member
-    1. IEEE Transactions on Computers (TC) Reviewer
-    1. Chinese Journal of Computers Reviewer
+1. ACNS-SCI 2022 Publicity Co-Chairs, PC Member
+1. ACNS-SCI 2021 PC Member
+1. IEEE Transactions on Computers (TC) 2021 Reviewer
+1. Elsevier Journal of Systems Architecture (JSA) 2021 Reviewer
+1. Chinese Journal of Computers 2021 Reviewer
+1. ACNS-SCI 2020 PC Member
+1. PeerJ Computer Science 2020 Reviewer
 
 Co-supervised students
 ======

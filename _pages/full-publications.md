@@ -8,6 +8,8 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+
+1. **[Journal-TECS]**Jiankuo Dong, **Fangyu Zheng** *, Jiangqiang Lin, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", ACM Transactions on Embedded Computing Systems (TECS),  **accepted to appear**.
 1. **[Conference-ACSAC]** Rong Wei, **Fangyu Zheng** *, Lili Gao, Jiankuo Dong, Guang Fan, Lipeng Wan, Jingqiang Lin, Yuewu Wang,  “Heterogeneous-PAKE: Bridging the Gap between PAKE Protocols and their Real-World Deployment”, 37th Annual Computer Security Applications Conference (ACSAC), 2021, **accepted to appear**.
 1. **[Conference-Securecomm2021]** Lipeng Wan, **Fangyu Zheng** *, Jingqiang Lin, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", 17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2021, **accepted to appear**.
 1. **[Conference-WASA2021]** Guang Fan, **Fangyu Zheng** *, Jiankuo Dong, Jingqiang Lin, Lili Gao, Rong Wei, Lipeng Wan, "A Secure and Efficient Cryptographic Co-processor Based on Embedded GPU System", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021, [doi: 10.1007/978-3-030-86130-8_9](https://link.springer.com/chapter/10.1007%2F978-3-030-86130-8_9).
@@ -36,4 +38,3 @@ Published and Accepted Papers
 1. **[Conference-SEC2016]** Yuan Zhao, Jingqiang Lin, Wuqiong Pan *, Cong Xue, **Fangyu Zheng**, Ziqiang Ma, “RegRSA: Using Registers as Buffers to Resist Memory Disclosure Attacks”, 31st International Conference on Systems Security and Privacy Protection (IFIP SEC), 2016. [doi: 10.1007/978-3-319-33630-5_20](https://link.springer.com/chapter/10.1007/978-3-319-33630-5_20)
 1. **[Conference-ISC2014]** **Fangyu Zheng**, Wuqiong Pan *, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Floating-Point Computing Power of GPUs for RSA”, 17th Information Security Conference (ISC), **Best Student Paper Award**, 2014. [doi: 10.1007/978-3-319-13257-0_12](https://link.springer.com/chapter/10.1007/978-3-319-13257-0_12)
 1. **[Conference-WISA2014]** **Fangyu Zheng**, Wuqiong Pan *, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Potential of GPUs for Modular Multiplication in ECC”, 15th International Workshop on Information Security Applications (WISA), 2014. [doi: 10.1007/978-3-319-15087-1_23](https://link.springer.com/chapter/10.1007/978-3-319-15087-1_23)
-
