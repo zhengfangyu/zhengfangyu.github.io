@@ -44,6 +44,7 @@ Fundings and Projects
 
 Awards
 ======
+1. Cryptologic Science and Technology Progress Award of China (3rd place, 3rd co-winner), 2021.
 1. 17th Information Security Conference (ISC 2014) [Best Student Paper Award](http://isc14.ie.cuhk.edu.hk/) for “Exploiting the Floating-Point Computing Power of GPUs for RSA”.
 
 Standards
