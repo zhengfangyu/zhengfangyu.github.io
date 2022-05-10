@@ -13,7 +13,7 @@ I am an assistant researcher in the Institute of Information Engineering, Chines
 
 I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing. My publications include TIFS, ACSAC, IPDPS, ISC, SCN, Securecomm, etc.
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing. My publications include TIFS, ACSAC, ESORICS, IPDPS, ISC, SCN, Securecomm, etc.
 
 My job focuses on applying cryptography in reality. Parts of my achievements include:
 * High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
@@ -23,6 +23,7 @@ My job focuses on applying cryptography in reality. Parts of my achievements inc
 
 Latest Publications (\* denotes the corresponding author.)
 ======
+1. **[Conf-ESORICS-2022]** Lipeng Wan, **Fangyu Zheng** *, Guang Fan, Rong Wei, Lili Gao, Yuewu Wang, Jingqiang Lin and Jiankuo Dong, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), **accepted to appear**.
 1. **[Conf-AC3-2022]** Haoling Fan, Lingjia Meng, **Fangyu Zheng** *, Mingyu Wang, Bowen Xu, "Black-box Testing of Cryptographic Algorithms Based on Data Characteristics", 2nd EAI International Conference on Applied Cryptography in Computer and Communications (AC3), **accepted to appear**.
 1. **[Conf-ICC2022]** Mingshu Du, Yuan Ma, Na Lv, Tianyu Chen, Shijie Jia, **Fangyu Zheng**, "An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator", 2022 IEEE International Conference on Communications (ICC), **accepted to appear**.
 1. **[Jour-IOTJ2022]** Jiankuo Dong, Guang Fan, **Fangyu Zheng** *, Tianyu Mao, Fu Xiao, Jingqiang Lin, "TEGRAS: An Efficient Tegra Embedded GPU based RSA Acceleration Server",  IEEE Internet of Things Journal, [doi: 10.1109/JIOT.2022.3152203](https://ieeexplore.ieee.org/abstract/document/9716069).
@@ -57,7 +58,9 @@ See [full standards](/standards/).
 
 Acadamic Services
 ======
-1. ACNS-SCI 2022 Publicity Co-Chairs, PC Member
+1. EAI AC3 2022 Reviewer
+1. Chinese Journal of Computers 2022 Reviewer
+1. ACNS-SCI 2022 Publicity Co-Chairs and PC Member
 1. ACNS-SCI 2021 PC Member
 1. IEEE Transactions on Computers (TC) 2021 Reviewer
 1. Elsevier Journal of Systems Architecture (JSA) 2021 Reviewer
@@ -65,13 +68,14 @@ Acadamic Services
 1. ACNS-SCI 2020 PC Member
 1. PeerJ Computer Science 2020 Reviewer
 
-Co-supervised students
+Co-supervised Students
 ======
 1. Juanjuan Cheng (Master, graduated in 2018)
 1. Wangzhao Cheng (Ph.D., graduated in 2019)
 1. Jiankuo Dong (Ph.D., graduated in 2019)
 1. Ziyang Wang (Ph.D., graduated in 2021)
-1. Rong Wei (Ph.D. candidate)
-1. Lili Gao (Ph.D. candidate)
-1. Lipeng Wang (Ph.D. candidate)
+1. Rong Wei (Ph.D., graduated in 2022)
+1. Lili Gao (Ph.D., graduated in 2022)
+1. Lipeng Wan (Ph.D. candidate)
 1. Guang Fan (Ph.D. candidate)
+1. Haoling Fan (Ph.D. candidate)
