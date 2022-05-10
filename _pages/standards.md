@@ -17,10 +17,6 @@ Published Standards
 Published Whitepapers 
 ======
  1. *“Guide for cryptography application and security evaluation of government information system”* [《政务信息系统密码应用与安全性评估工作指南》](http://www.gov.cn/xinwen/2020-09/24/content_5546655.htm)
- 
-[//]:  1. *“Testing and evaluation requirements for information system cryptography application”* [信息系统密码应用测评要求》](https://www.oscca.gov.cn/sca/xwdt/2020-12/08/1060792/files/d2f1665e78bb4c658ca06bfaaa16eae1.pdf)
-
-[//]: 1. *“Testing and evaluation process guide for information system cryptography application”* [信息系统密码应用测评过程指南》](https://www.oscca.gov.cn/sca/xwdt/2020-12/08/1060792/files/f84f69611d764ab8be17ea1be3332b5b.pdf)
 
 1. *"Quantitative evaluation rules for commercial cryptography application security evaluation"* [《商用密码应用安全性评估量化评估规则》](http://www.scctc.org.cn/upload/fckeditor/%E9%99%84%E4%BB%B62.%E5%95%86%E7%94%A8%E5%AF%86%E7%A0%81%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%80%A7%E8%AF%84%E4%BC%B0%E9%87%8F%E5%8C%96%E8%AF%84%E4%BC%B0%E8%A7%84%E5%88%99.pdf(1).pdf)
 1. *"High-risk determination guide for information system cryptography application"* [《信息系统密码应用高风险判定指引》](http://www.scctc.org.cn/upload/fckeditor/%E9%99%84%E4%BB%B61.%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%AF%86%E7%A0%81%E5%BA%94%E7%94%A8%E9%AB%98%E9%A3%8E%E9%99%A9%E5%88%A4%E5%AE%9A%E6%8C%87%E5%BC%95.pdf(1).pdf)
