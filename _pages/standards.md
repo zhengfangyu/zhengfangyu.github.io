@@ -11,7 +11,7 @@ Published Standards
 1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
 1. GM/T 0105-2021 *"Design guide for software-based random number generators"* 《软件随机数发生器设计指南》
 1. GM/T 0115-2021 *"Testing and evaluation requirements for information system cryptography application"* 《信息系统密码应用测评要求》
-1. GM/T 0115-2021  *"Testing and evaluation process guide for information system cryptography application"*  《信息系统密码应用测评过程指南》
+1. GM/T 0116-2021  *"Testing and evaluation process guide for information system cryptography application"*  《信息系统密码应用测评过程指南》
 
 
 Published Whitepapers 
