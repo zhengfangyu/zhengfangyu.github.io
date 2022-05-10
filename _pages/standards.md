@@ -17,6 +17,7 @@ Published Standards
 Published Whitepapers 
 ======
  1. *“Guide for cryptography application and security evaluation of government information system”* [《政务信息系统密码应用与安全性评估工作指南》](http://www.gov.cn/xinwen/2020-09/24/content_5546655.htm)
+ 
 [//]:  1. *“Testing and evaluation requirements for information system cryptography application”* [信息系统密码应用测评要求》](https://www.oscca.gov.cn/sca/xwdt/2020-12/08/1060792/files/d2f1665e78bb4c658ca06bfaaa16eae1.pdf)
 
 [//]: 1. *“Testing and evaluation process guide for information system cryptography application”* [信息系统密码应用测评过程指南》](https://www.oscca.gov.cn/sca/xwdt/2020-12/08/1060792/files/f84f69611d764ab8be17ea1be3332b5b.pdf)
