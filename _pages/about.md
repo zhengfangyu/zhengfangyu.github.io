@@ -83,4 +83,4 @@ Co-supervised Students
 1. Haoling Fan (Ph.D. candidate)
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=cNNb6keij0jANrLkgb7w1dHiHxslEJNB85GGkeAlgw0'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qYFf_TmdO5Vj5Bt80qHDTixnXUwdGwN0pTgUit9SCVk&cl=ffffff&w=a"></script>
