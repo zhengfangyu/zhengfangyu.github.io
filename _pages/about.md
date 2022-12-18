@@ -48,7 +48,7 @@ Fundings and Projects
 
 Awards
 ======
-1. Exllent Project of CCF-Tencent Rhino-Bird Young Faculty Open Research Fund (8/34), 2022.
+1. [Exllent Project](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651537031&idx=2&sn=55d84996e370fc297230f859acb32e0b&chksm=bd4e02e58a398bf3c902913422d0ec7105d2cebf273686f5d50413160b337768dc0dcce2d830&scene=27) of CCF-Tencent Rhino-Bird Young Faculty Open Research Fund (8/34), 2022.
 1. Cryptologic Science and Technology Progress Award of China (3rd place, 3rd co-winner), 2021.
 1. 17th Information Security Conference (ISC 2014) [Best Student Paper Award](http://isc14.ie.cuhk.edu.hk/) for “Exploiting the Floating-Point Computing Power of GPUs for RSA”.
 
