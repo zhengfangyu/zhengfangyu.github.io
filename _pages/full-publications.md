@@ -8,6 +8,7 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+1. **[Jour-信息安全学报]** Lingjia Meng, Jingqiang Lin, **Fangyu Zheng** *, Fan Lang, Mingyu Wang, “Research on Transient Execution Attacks and Their Impact on Security Enhanced Software Cryptographic Implementation Schemes”, Chinese Journal of Cyber Security, 2023, accepted to appear.
 1. **[Conf-IPDPS2023]** Guang Fan, **Fangyu Zheng** *, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, Jingqiang Lin, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs". 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, accepted to appear.
 1. **[Conf-ACSAC2022]** Wenqing Li, Shijie Jia*, Limin Liu, **Fangyu Zheng**, Yuan Ma, Jingqiang Lin, "CryptoGo: Automatic Detection of Go Cryptographic API Misuses". 38th Annual Computer Security Applications Conf (ACSAC), 2022, [doi: 10.1145/3564625.3567989](https://dl.acm.org/doi/10.1145/3564625.3567989).
 1. **[Jour-TII2022]** Jiankuo Dong, Pinchang Zhang, Kaisheng Sun, Fu Xiao*, Fangyu Zheng, Jingqiang Lin, “EG-FourQ: An Embedded GPU based Efficient ECC Cryptography Accelerator for Edge Computing”, IEEE Transactions on Industrial Informatics, [doi: 10.1109/TII.2022.3205355](https://ieeexplore.ieee.org/document/9882374).
