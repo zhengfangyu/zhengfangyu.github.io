@@ -38,6 +38,7 @@ See [full publications](/full-publications/).
 
 Fundings and Projects
 ======
+1.  Ant Group R&D Fund, 2021-2023.
 1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. RAGR20210131), 2021.
 1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund (Grant No. RAGR20210131), 2021.
 1.  National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.
