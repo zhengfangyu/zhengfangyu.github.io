@@ -8,6 +8,7 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+1. **[Conf-ESORICS2023]** Bowen Xu, Shijie Jia*, Jingqiang Lin, **Fangyu Zheng**, Yuan Ma, Limin Liu, Xiaozhuo Gu and Li Song. JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications. The 28th European Symposium on Research in Computer Security (ESORICS), accepted to appear.
 1. **[Jour-信息安全学报]** Lingjia Meng, Jingqiang Lin, **Fangyu Zheng** *, Fan Lang, Mingyu Wang, “Research on Transient Execution Attacks and Their Impact on Security Enhanced Software Cryptographic Implementation Schemes”, Chinese Journal of Cyber Security, 2023, accepted to appear.
 1. **[Conf-IPDPS2023]** Guang Fan, **Fangyu Zheng** *, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, Jingqiang Lin, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs". 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, accepted to appear.
 1. **[Conf-ICPADS2022]** Jiankuo Dong, Sheng Lu, Pinchang Zhang, **Fangyu Zheng**, Fu Xiao, "G-SM3: High-Performance Implementation of GPU-based SM3 Hash Function", IEEE 28th International Conference on Parallel and Distributed Systems (ICPADS) 2022, [doi: 10.1109/ICPADS56603.2022.00034](https://ieeexplore.ieee.org/abstract/document/10077957).

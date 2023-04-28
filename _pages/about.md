@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an assistant researcher in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). I am also the Chief Engineer of Testing Lab in DCS center, CAS.
+I am an assistant professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). I am also the Chief Engineer of Testing Lab in DCS center, CAS.
 
 I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
