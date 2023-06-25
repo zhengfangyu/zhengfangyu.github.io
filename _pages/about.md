@@ -23,6 +23,7 @@ My job focuses on applying cryptography in reality. Parts of my achievements inc
 
 Seleted Publications (\* denotes the corresponding author.)
 ======
+1. **[Conf-ICPP2023]** Yi Bian, **Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Jiankuo Dong, Jiwu Jing, "AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider". 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, accepted to appear.
 1. **[Conf-IPDPS2023]** Guang Fan, **Fangyu Zheng** *, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, Jingqiang Lin, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs". 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, accepted to appear.
 1. **[Conf-ESORICS-2022]** Lipeng Wan, **Fangyu Zheng** *, Guang Fan, Rong Wei, Lili Gao, Jiankuo Dong, Yuewu Wang and Jingqiang Lin, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), [doi: 10.1007/978-3-031-17143-7_25](https://link.springer.com/chapter/10.1007/978-3-031-17143-7_25).
 1. **[Jour-TECS2022]** Jiankuo Dong, **Fangyu Zheng** *, Jingqiang Lin, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", ACM Transactions on Embedded Computing Systems (TECS),  [doi: 10.1145/3492734](https://dl.acm.org/doi/abs/10.1145/3492734).
@@ -77,6 +78,7 @@ Acadamic Services
 
 Co-supervised Students
 ======
+
 1. Juanjuan Cheng (Master, graduated in 2018)
 1. Wangzhao Cheng (Ph.D., graduated in 2019)
 1. Jiankuo Dong (Ph.D., graduated in 2019)
@@ -84,8 +86,10 @@ Co-supervised Students
 1. Rong Wei (Ph.D., graduated in 2022)
 1. Lili Gao (Ph.D., graduated in 2022)
 1. Lipeng Wan (Ph.D., graduated in 2023)
-1. Guang Fan (Ph.D. candidate)
+1. Guang Fan (Ph.D., graduated in 2023)
+1. Lingjia Meng (Ph.D. candidate)
 1. Haoling Fan (Ph.D. candidate)
+1. Yi Bian（Ph.D. candidate）
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qYFf_TmdO5Vj5Bt80qHDTixnXUwdGwN0pTgUit9SCVk&cl=ffffff&w=a"></script>
