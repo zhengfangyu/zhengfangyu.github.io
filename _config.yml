@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Fangyu(郑昉昱)"
+  name             : "Zheng Fangyu (郑昉昱)"
   avatar           : "zhengfangyu_potrait.jpg"
   bio              : "Cryptography and GPU"
   location         : #"Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TWyTZp0AAAAJ&hl=en"
-  email            :  zhengfy1028@hotmail.com
+  email            :  zhengfy1028@hotmail.com; zhengfangyu@ucas.ac.cn
   researchgate     :  "https://www.researchgate.net/profile/Fangyu-Zheng"
   uri              :
   bitbucket        :
