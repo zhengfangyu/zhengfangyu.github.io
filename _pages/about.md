@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am an assistant professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). I am also the Chief Engineer of Testing Lab in DCS center, CAS.
+I am an associate professor in the School of Cryptology, University of Chinese Acadamy of Sciences. I am also the Chief Engineer of Testing Lab in DCS center, CAS.
 
 I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing. My publications include TIFS, ACSAC, IPDPS, ISC, SCN, Securecomm, etc.
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing. My publications include TIFS, ACSAC, ESORICS, IPDPS, ICPP, ISC, SCN, Securecomm, etc.
 
 My job focuses on applying cryptography in reality. Parts of my achievements include:
 * High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
@@ -39,7 +39,8 @@ See [full publications](/full-publications/).
 
 Fundings and Projects
 ======
-1.  Ant Group R&D Fund, 2021-2023.
+1.  CCF-Ant R&D Fund, 2023.
+1.  Ant Group R&D Fund, 2021 and 2022.
 1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. RAGR20210131), 2021.
 1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund (Grant No. RAGR20210131), 2021.
 1.  National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.
@@ -61,20 +62,23 @@ Standards
 1. GB/T 37092-2018 ["Information security technology—Security requirements for cryptographic modules"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657) 
 1. GB/T 39786-2021 ["Information security technology—Baseline for information system cryptography application"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC) 
 1. GB/T 40018-2021 ["Information security technology—Certificate request and application protocol based on multiple channels"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF) 
+1. GB/T 43206-2023 [Information security technology—Testing and evaluation requirements for information system cryptography application](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EE1B34C97A17C6F13FA9A9D891C144C2)
+1. GB/T 43207-2023 [Information security technology—Guidelines of design for information system cryptography application](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=851A7FC4DDC2F6E9BE2677127863CCF8)
 
 See [full standards](/standards/).
 
 Acadamic Services
 ======
+1. IEEE Transactions on Computers (TC) Reviewer
+1. Elsevier Journal of Systems Architecture (JSA) Reviewer
+1. Chinese Journal of Computers Reviewer
+1. PeerJ Computer Science Reviewer
+1. Securecomm 2023 Reviewer
+1. ACNS-SCI 2023 Web Chair and PC Member
 1. EAI AC3 2022 Reviewer
-1. Chinese Journal of Computers 2022 Reviewer
 1. ACNS-SCI 2022 Publicity Co-Chairs and PC Member
 1. ACNS-SCI 2021 PC Member
-1. IEEE Transactions on Computers (TC) 2021 Reviewer
-1. Elsevier Journal of Systems Architecture (JSA) 2021 Reviewer
-1. Chinese Journal of Computers 2021 Reviewer
 1. ACNS-SCI 2020 PC Member
-1. PeerJ Computer Science 2020 Reviewer
 
 Co-supervised Students
 ======
@@ -90,6 +94,7 @@ Co-supervised Students
 1. Lingjia Meng (Ph.D. candidate)
 1. Haoling Fan (Ph.D. candidate)
 1. Yi Bian（Ph.D. candidate）
+1. Mingyu Wang（Ph.D. candidate）
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qYFf_TmdO5Vj5Bt80qHDTixnXUwdGwN0pTgUit9SCVk&cl=ffffff&w=a"></script>
