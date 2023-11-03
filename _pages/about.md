@@ -13,9 +13,9 @@ I am an associate professor in the School of Cryptology, University of Chinese A
 
 I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing. My publications include TIFS, ACSAC, ESORICS, IPDPS, ICPP, ISC, SCN, Securecomm, etc.
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include TIFS, ACSAC, ESORICS, IPDPS, ICPP, ISC, SCN, Securecomm, etc.
 
-My job focuses on applying cryptography in reality. Parts of my achievements include:
+My job focuses on **applying cryptography in reality**. Parts of my achievements include:
 * High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
 * Secure and fast software cryptographic implementations (numberous publications and implementations).
 * Cryptography evaluation methods (2 fundamental standards, i.e., GB/T 37092 and GB/T 39786). 
@@ -37,12 +37,12 @@ Seleted Publications (\* denotes the corresponding author.)
 
 See [full publications](/full-publications/).
 
-Fundings and Projects
+Fundings and Projects (Hosted)
 ======
-1.  CCF-Ant R&D Fund, 2023.
+1.  CCF-Ant R&D Fund, (Grant No. CCF-AFSG RF20230206), 2023.
 1.  Ant Group R&D Fund, 2021 and 2022.
-1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. RAGR20210131), 2021.
-1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund (Grant No. RAGR20210131), 2021.
+1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. CCF-RAGR20210131), 2021.
+1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund (Grant No. CCF-RAGR20210131), 2021.
 1.  National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.
 1.  National Key R&D Plan of China, "Cryptography Application Security Evaluation of Mobile Government Service", 2018.
 1.  National Key R&D Plan of China, "Architecuture of Cryptographic Service Supporting Infrastructures and Research on Cryptographic Key Management Technology in the Mobile Internet (Grant No. 2017YFB0802101)", 2017.  
