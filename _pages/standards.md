@@ -9,9 +9,12 @@ Published Standards
 1. GB/T 37092-2018 *"Information security technology—Security requirements for cryptographic modules"* [《信息安全技术 密码模块安全要求》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657)
 1. GB/T 39786-2021 *"Information security technology—Baseline for information system cryptography application"* [《信息安全技术 信息系统密码应用基本要求》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC)
 1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
+1. GB/T 43206-2023 *"Information security technology—Testing and evaluation requirements for information system cryptography application"* [信息安全技术 信息系统密码应用测评要求](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EE1B34C97A17C6F13FA9A9D891C144C2)
+1. GB/T 43207-2023 *”Information security technology—Guidelines of design for information system cryptography application“* [信息安全技术 信息系统密码应用设计指南](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=851A7FC4DDC2F6E9BE2677127863CCF8)
 1. GM/T 0105-2021 *"Design guide for software-based random number generators"* 《软件随机数发生器设计指南》
 1. GM/T 0115-2021 *"Testing and evaluation requirements for information system cryptography application"* 《信息系统密码应用测评要求》
 1. GM/T 0116-2021  *"Testing and evaluation process guide for information system cryptography application"*  《信息系统密码应用测评过程指南》
+
 
 
 Published Whitepapers 
