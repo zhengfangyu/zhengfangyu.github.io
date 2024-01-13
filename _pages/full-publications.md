@@ -8,6 +8,9 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, accepted to appear.
+1. **[Conf-ISC2023]** Lingjia Meng, Yu Fu, **Fangyu Zheng** *, Ziqiang Ma, Mingyu Wang, Dingfeng Ye, Jingqiang Lin, “Protecting Private Keys of Dilithium using Hardware Transactional Memory”, 26th Information Security Conference (ISC), 2023, accepted to appear.
+1. **[Conf-Inscrypt2023]** Qingguan Gao, Kaisheng Sun, Jiankuo Dong *, **Fangyu Zheng**, Jingqiang Lin, Yongjun Ren, Zhe Liu, “V-Curve25519: Efficient Implementation of Curve25519 on RISC-V Architecture”, 19th International Conference on Information Security and Cryptology (Inscrypt), 2023, accepted to appear.
 1. **[Conf-ICPP2023]** Yi Bian, **Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Jiankuo Dong, Jiwu Jing, "AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider". 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, accepted to appear.
 1. **[Conf-ESORICS2023]** Bowen Xu, Shijie Jia*, Jingqiang Lin, **Fangyu Zheng**, Yuan Ma, Limin Liu, Xiaozhuo Gu and Li Song. JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications. The 28th European Symposium on Research in Computer Security (ESORICS), accepted to appear.
 1. **[Jour-信息安全学报]** Lingjia Meng, Jingqiang Lin, **Fangyu Zheng** *, Fan Lang, Mingyu Wang, “Research on Transient Execution Attacks and Their Impact on Security Enhanced Software Cryptographic Implementation Schemes”, Chinese Journal of Cyber Security, 2023, accepted to appear.
