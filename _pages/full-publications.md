@@ -8,6 +8,8 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+1. **[Conf-WCNC2024]** Mingyu Wang, Shijie Jia *, **Fangyu Zheng**, Yuan Ma, Jingqiang Lin, Lingjia Meng, Ziqiang Ma, “TF-Timer: Mitigating Cache Side-Channel Attacks in Cloud through a Targeted Fuzzy Timer”, IEEE Wireless Communications and Network Conference (WCNC), 2024, accepted to appear.
+1. **[Conf-ICC2024]** Mingyu Wang, Lingjia Meng, **Fangyu Zheng** *, Jingqiang Lin, Shijie Jia, Yuan Ma, Haoling Fan, “TLTracer: Dynamically Detecting Cache Side Channel Attacks with a Timing Loop Tracer”, 58th IEEE International Conference on Communications (ICC), 2024, accepted to appear.
 1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, accepted to appear.
 1. **[Conf-Inscrypt2023]** Qingguan Gao, Kaisheng Sun, Jiankuo Dong *, **Fangyu Zheng**, Jingqiang Lin, Yongjun Ren, Zhe Liu, “V-Curve25519: Efficient Implementation of Curve25519 on RISC-V Architecture”, 19th International Conference on Information Security and Cryptology (Inscrypt), 2023, accepted to appear.
 1. **[Conf-TrustCom2023]** Haoling Fan, **Fangyu Zheng** *, Jingqiang Lin, Lingjia Meng, Mingyu Wang, Qiang Wang, Shijie Jia, Yuan Ma, “A Hybrid Detection Approach for Cryptographic Algorithms of Closed Source Software”, 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom-2023), 2023,  accepted to appear.
