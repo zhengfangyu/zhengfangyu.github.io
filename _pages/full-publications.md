@@ -8,6 +8,8 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+1. **[Jour-密码学报]** Tuanjie Kong, **Fangyu Zheng**, Run Guo *, Jiwu Jing, Ziang Zhang, “Implementation of Low-power Software and Hardware Combination for SM2 Algorithm”, Journal of Cryptologic Research, 2024.
+1. **[Jour-密码学报]** Tian Zhou, **Fangyu Zheng**, Jingqiang Lin *, Rong Wei, Wenxu Tang, “Research on Software Implementations of Post-Quantum Cryptography”, Journal of Cryptologic Research, 2024.
 1. **[Conf-WCNC2024]** Mingyu Wang, Shijie Jia *, **Fangyu Zheng**, Yuan Ma, Jingqiang Lin, Lingjia Meng, Ziqiang Ma, “TF-Timer: Mitigating Cache Side-Channel Attacks in Cloud through a Targeted Fuzzy Timer”, IEEE Wireless Communications and Network Conference (WCNC), 2024, accepted to appear.
 1. **[Conf-ICC2024]** Mingyu Wang, Lingjia Meng, **Fangyu Zheng** *, Jingqiang Lin, Shijie Jia, Yuan Ma, Haoling Fan, “TLTracer: Dynamically Detecting Cache Side Channel Attacks with a Timing Loop Tracer”, 58th IEEE International Conference on Communications (ICC), 2024, accepted to appear.
 1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, accepted to appear.
