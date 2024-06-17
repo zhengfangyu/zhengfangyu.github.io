@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am an associate professor in the School of Cryptology, University of Chinese Acadamy of Sciences. I am also the Chief Engineer of Testing Lab in DCS center, CAS.
+I am an associate professor in the School of Cryptology, University of Chinese Acadamy of Sciences (UCAS). Please visit my [UCAS website](https://people.ucas.ac.cn/~zhengfangyu) for more information.
 
 I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include TIFS, ACSAC, ESORICS, IPDPS, ICPP, ISC, SCN, Securecomm, etc.
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include TIFS, CHES, ACSAC, ESORICS, IPDPS, ICPP, etc. 
 
 My job focuses on **applying cryptography in reality**. Parts of my achievements include:
 * High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
