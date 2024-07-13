@@ -23,9 +23,10 @@ My job focuses on **applying cryptography in reality**. Parts of my achievements
 
 Seleted Publications (\* denotes the corresponding author.)
 ======
-1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, accepted to appear.
-1. **[Conf-ICPP2023]** Yi Bian, **Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Jiankuo Dong, Jiwu Jing, "AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider". 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, accepted to appear.
-1. **[Conf-IPDPS2023]** Guang Fan, **Fangyu Zheng** *, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, Jingqiang Lin, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs". 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, accepted to appear.
+1. **[Jour-TIFS2024]** Mingyu Wang, **Fangyu Zheng** *, Jingqiang Lin, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", IEEE Transactions on Information Forensics and Security (TIFS), 2024, accepted to appear.
+1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, [doi: 10.46586/tches.v2024.i2.25-63](https://tches.iacr.org/index.php/TCHES/article/view/11420).
+1. **[Conf-ICPP2023]** Yi Bian, **Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Jiankuo Dong, Jiwu Jing, "AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider". 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, [doi: 10.1145/3605573.3605620](https://dl.acm.org/doi/abs/10.1145/3605573.3605620).
+1. **[Conf-IPDPS2023]** Guang Fan, **Fangyu Zheng** *, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, Jingqiang Lin, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs". 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, [doi: 10.1109/IPDPS54959.2023.00085](https://ieeexplore.ieee.org/abstract/document/10177431/).
 1. **[Conf-ESORICS-2022]** Lipeng Wan, **Fangyu Zheng** *, Guang Fan, Rong Wei, Lili Gao, Jiankuo Dong, Yuewu Wang and Jingqiang Lin, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), [doi: 10.1007/978-3-031-17143-7_25](https://link.springer.com/chapter/10.1007/978-3-031-17143-7_25).
 1. **[Jour-TECS2022]** Jiankuo Dong, **Fangyu Zheng** *, Jingqiang Lin, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", ACM Transactions on Embedded Computing Systems (TECS),  [doi: 10.1145/3492734](https://dl.acm.org/doi/abs/10.1145/3492734).
 1. **[Conf-ACSAC2021]** Rong Wei, **Fangyu Zheng** *, Lili Gao, Jiankuo Dong, Guang Fan, Lipeng Wan, Jingqiang Lin, Yuewu Wang,  “Heterogeneous-PAKE: Bridging the Gap between PAKE Protocols and their Real-World Deployment”, 37th Annual Computer Security Applications Conf (ACSAC), 2021, [doi: 10.1145/3485832.3485877](https://dl.acm.org/doi/10.1145/3485832.3485877).
@@ -73,7 +74,9 @@ Acadamic Services
 1. IEEE Transactions on Computers (TC) Reviewer
 1. Elsevier Journal of Systems Architecture (JSA) Reviewer
 1. Chinese Journal of Computers Reviewer
+1. Cybersecurity Reviewer
 1. PeerJ Computer Science Reviewer
+1. ACNS-SCI 2024 Web Chair and PC Member
 1. Securecomm 2023 Reviewer
 1. ACNS-SCI 2023 Web Chair and PC Member
 1. EAI AC3 2022 Reviewer
