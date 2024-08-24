@@ -23,7 +23,8 @@ My job focuses on **applying cryptography in reality**. Parts of my achievements
 
 Seleted Publications (\* denotes the corresponding author.)
 ======
-1. **[Jour-TIFS2024]** Mingyu Wang, **Fangyu Zheng** *, Jingqiang Lin, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", IEEE Transactions on Information Forensics and Security (TIFS), 2024, accepted to appear.
+1. **[Conf-CCS2024]**Wenxu Tang, **Fangyu Zheng** *, Guang Fan, Tian Zhou, Jingqiang Lin, Jiwu Jing, “DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation”, 31st ACM Conference on Computer and Communications Security (CCS), 2024, accepted to appear. 
+1. **[Jour-TIFS2024]** Mingyu Wang, **Fangyu Zheng** *, Jingqiang Lin, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", IEEE Transactions on Information Forensics and Security (TIFS), 2024, [doi: 10.1109/TIFS.2024.3435062](https://ieeexplore.ieee.org/document/10613849).
 1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, [doi: 10.46586/tches.v2024.i2.25-63](https://tches.iacr.org/index.php/TCHES/article/view/11420).
 1. **[Conf-ICPP2023]** Yi Bian, **Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Jiankuo Dong, Jiwu Jing, "AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider". 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, [doi: 10.1145/3605573.3605620](https://dl.acm.org/doi/abs/10.1145/3605573.3605620).
 1. **[Conf-IPDPS2023]** Guang Fan, **Fangyu Zheng** *, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, Jingqiang Lin, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs". 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, [doi: 10.1109/IPDPS54959.2023.00085](https://ieeexplore.ieee.org/abstract/document/10177431/).
@@ -78,13 +79,13 @@ Acadamic Services
 1. PeerJ Computer Science Reviewer
 1. ACNS-SCI 2024 Web Chair and PC Member
 1. Securecomm 2023 Reviewer
-1. ACNS-SCI 2023 Web Chair and PC Member
+1. ACNS-SCI 2023 Publicity Chair and PC Member
 1. EAI AC3 2022 Reviewer
 1. ACNS-SCI 2022 Publicity Co-Chairs and PC Member
 1. ACNS-SCI 2021 PC Member
 1. ACNS-SCI 2020 PC Member
 
-Co-supervised Students
+Supervised and Co-supervised Students
 ======
 
 1. Juanjuan Cheng (Master, graduated in 2018)
@@ -95,9 +96,11 @@ Co-supervised Students
 1. Lili Gao (Ph.D., graduated in 2022)
 1. Lipeng Wan (Ph.D., graduated in 2023)
 1. Guang Fan (Ph.D., graduated in 2023)
-1. Lingjia Meng (Ph.D. candidate)
-1. Haoling Fan (Ph.D. candidate)
+1. Lingjia Meng (Ph.D. graduated in 2024)
+1. Haoling Fan (Ph.D. graduated in 2024)
+1. Mingyu Wang (Ph.D. graduated in 2024)
 1. Yi Bian（Ph.D. candidate）
+1. Kai Sun (Master candidate)
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qYFf_TmdO5Vj5Bt80qHDTixnXUwdGwN0pTgUit9SCVk&cl=ffffff&w=a"></script>
