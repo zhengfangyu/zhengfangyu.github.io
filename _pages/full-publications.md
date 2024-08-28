@@ -8,7 +8,7 @@ author_profile: true
 
 Published and Accepted Papers
 ======
-1. **[Conf-ICPADS2022]** Yi Bian, **Fangyu Zheng** *, Jiwu Jing, "TensorPolyMul: Accelerating Polynomial Multiplication in NTT-unfriendly Lattice-based Cryptography Using Tensor Cores", IEEE 30th International Conference on Parallel and Distributed Systems (ICPADS), 2024, accepted to appear.
+1. **[Conf-ICPADS2024]** Yi Bian, **Fangyu Zheng** *, Jiwu Jing, "TensorPolyMul: Accelerating Polynomial Multiplication in NTT-unfriendly Lattice-based Cryptography Using Tensor Cores", IEEE 30th International Conference on Parallel and Distributed Systems (ICPADS), 2024, accepted to appear.
 1. **[Conf-CCS2024]** Wenxu Tang, **Fangyu Zheng** *, Guang Fan, Tian Zhou, Jingqiang Lin, Jiwu Jing, “DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation”, 31st ACM Conference on Computer and Communications Security (CCS), 2024, accepted to appear. 
 1. **[Jour-TIFS2024]** Mingyu Wang, **Fangyu Zheng** *, Jingqiang Lin, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", IEEE Transactions on Information Forensics and Security (TIFS), 2024, [doi: 10.1109/TIFS.2024.3435062](https://ieeexplore.ieee.org/document/10613849).
 1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, [doi: 10.46586/tches.v2024.i2.25-63](https://tches.iacr.org/index.php/TCHES/article/view/11420).
