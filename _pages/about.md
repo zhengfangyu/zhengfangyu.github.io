@@ -75,8 +75,11 @@ Acadamic Services
 1. IEEE Transactions on Computers (TC) Reviewer
 1. Elsevier Journal of Systems Architecture (JSA) Reviewer
 1. Chinese Journal of Computers Reviewer
+1. Journal of Cryptologic Research Reviewer
 1. Cybersecurity Reviewer
 1. PeerJ Computer Science Reviewer
+1. WCNC 2025 PC member
+1. WCNC 2024 PC member
 1. ACNS-SCI 2024 Web Chair and PC Member
 1. Securecomm 2023 Reviewer
 1. ACNS-SCI 2023 Publicity Chair and PC Member
@@ -100,6 +103,8 @@ Supervised and Co-supervised Students
 1. Haoling Fan (Ph.D. graduated in 2024)
 1. Mingyu Wang (Ph.D. graduated in 2024)
 1. Yi Bian（Ph.D. candidate）
+1. Tian Zhou（Ph.D. candidate）
+1. Wenxu Tang（Ph.D. candidate）
 1. Kai Sun (Master candidate)
 
 
