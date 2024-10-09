@@ -8,6 +8,9 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+1. **[Conf-TC2024]** Yi Bian,**Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Tian Zhou,
+Jiankuo Dong, Guang Fan, Jiwu Jing, “AsyncGBP+: Bridging SSL/TLS and
+Heterogeneous Computing Power with GPU-based Providers”, IEEE Transactions on Computers (TC), 2024, accepted to appear. 
 1. **[Conf-ICPADS2024]** Yi Bian, **Fangyu Zheng** *, Jiwu Jing, "TensorPolyMul: Accelerating Polynomial Multiplication in NTT-unfriendly Lattice-based Cryptography Using Tensor Cores", IEEE 30th International Conference on Parallel and Distributed Systems (ICPADS), 2024, accepted to appear.
 1. **[Conf-CCS2024]** Wenxu Tang, **Fangyu Zheng** *, Guang Fan, Tian Zhou, Jingqiang Lin, Jiwu Jing, “DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation”, 31st ACM Conference on Computer and Communications Security (CCS), 2024, accepted to appear. 
 1. **[Jour-TIFS2024]** Mingyu Wang, **Fangyu Zheng** *, Jingqiang Lin, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", IEEE Transactions on Information Forensics and Security (TIFS), 2024, [doi: 10.1109/TIFS.2024.3435062](https://ieeexplore.ieee.org/document/10613849).
