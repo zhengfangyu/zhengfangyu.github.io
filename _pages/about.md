@@ -108,9 +108,9 @@ Supervised and Co-supervised Students
 1. Lingjia Meng (Ph.D. graduated in 2024)
 1. Haoling Fan (Ph.D. graduated in 2024)
 1. Mingyu Wang (Ph.D. graduated in 2024)
-1. Yi Bian（Ph.D. candidate）
-1. Tian Zhou（Ph.D. candidate）
-1. Wenxu Tang（Ph.D. candidate）
+1. Yi Bian(Ph.D. graduated in 2024)
+1. Tian Zhou(Ph.D. candidate)
+1. Wenxu Tang(Ph.D. candidate)
 1. Kai Sun (Master candidate)
 
 
