@@ -8,6 +8,7 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+1. **[Jour-TII2025]** Lingjia Meng, Yu Fu, **Fangyu Zheng** *, Mingyu Wang, Ziqiang Ma, Jiankuo Dong, Jingqiang Lin, “HTM-PQC: Hardening Cryptography Keys under the Trend of Post-quantum Cryptography Migration on Industrial Internet”, IEEE Transactions on Industrial Informatics (TII), 2025.
 1. **[Conf-HPCA2025]** Guang Fan, Mingzhe Zhang, **Fangyu Zheng**, Shengyu Fan, Tian Zhou, Xianglong Deng, Wenxu Tang, Liang Kong, Yixuan Song, Shoumeng Yan, “WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores”, 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025, accepted to appear.
 1. **[Conf-TC2024]** Yi Bian,**Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Tian Zhou,
 Jiankuo Dong, Guang Fan, Jiwu Jing, “AsyncGBP+: Bridging SSL/TLS and

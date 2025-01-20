@@ -23,7 +23,9 @@ My job focuses on **applying cryptography in reality**. Parts of my achievements
 
 Seleted Publications (\* denotes the corresponding author.)
 ======
+
 1. **[Conf-HPCA2025]** Guang Fan, Mingzhe Zhang, **Fangyu Zheng**, Shengyu Fan, Tian Zhou, Xianglong Deng, Wenxu Tang, Liang Kong, Yixuan Song, Shoumeng Yan, “WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores”, 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025, accepted to appear.
+1. **[Jour-TII2025]** Lingjia Meng, Yu Fu, **Fangyu Zheng** *, Mingyu Wang, Ziqiang Ma, Jiankuo Dong, Jingqiang Lin, “HTM-PQC: Hardening Cryptography Keys under the Trend of Post-quantum Cryptography Migration on Industrial Internet”, IEEE Transactions on Industrial Informatics (TII), 2025.
 1. **[Conf-CCS2024]** Wenxu Tang, **Fangyu Zheng** *, Guang Fan, Tian Zhou, Jingqiang Lin, Jiwu Jing, “DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation”, 31st ACM Conference on Computer and Communications Security (CCS), 2024, [doi: 10.1145/
 3658644.3690280](https://dl.acm.org/doi/abs/10.1145/3658644.3690280). 
 1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, [doi: 10.46586/tches.v2024.i2.25-63](https://tches.iacr.org/index.php/TCHES/article/view/11420).
@@ -47,6 +49,7 @@ See [full publications](/full-publications/).
 
 Fundings and Projects (Hosted)
 ======
+1.  National Cryptographic Science Foundation of China, General Project, "Research on the Integration of AI Accelerators for High-Speed Implementation of Lattice-Based Cryptography", 2025.
 1.  CCF-Ant R&D Fund, (Grant No. CCF-AFSG RF20230206), 2023.
 1.  Ant Group R&D Fund, 2021 and 2022.
 1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. CCF-RAGR20210131), 2021.
