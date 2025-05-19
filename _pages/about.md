@@ -24,6 +24,9 @@ My job focuses on **applying cryptography in reality**. Parts of my achievements
 Seleted Publications (\* denotes the corresponding author.)
 ======
 
+1. **[Jour-TPDS2025]** **Fangyu Zheng**, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo
+Dong, Jingqiang Lin, Shoumeng YanJiwu Jing, “GIF-FHE: A Comprehensive Implementation and
+Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, accepted to appear.
 1. **[Conf-HPCA2025]** Guang Fan, Mingzhe Zhang, **Fangyu Zheng**, Shengyu Fan, Tian Zhou, Xianglong Deng, Wenxu Tang, Liang Kong, Yixuan Song, Shoumeng Yan, “WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores”, 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025, accepted to appear.
 1. **[Jour-TII2025]** Lingjia Meng, Yu Fu, **Fangyu Zheng** *, Mingyu Wang, Ziqiang Ma, Jiankuo Dong, Jingqiang Lin, “HTM-PQC: Hardening Cryptography Keys under the Trend of Post-quantum Cryptography Migration on Industrial Internet”, IEEE Transactions on Industrial Informatics (TII), 2025, [doi: 10.1109/TII.2025.3528582](https://ieeexplore.ieee.org/abstract/document/10854988).
 1. **[Conf-CCS2024]** Wenxu Tang, **Fangyu Zheng** *, Guang Fan, Tian Zhou, Jingqiang Lin, Jiwu Jing, “DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation”, 31st ACM Conference on Computer and Communications Security (CCS), 2024, [doi: 10.1145/
@@ -79,7 +82,8 @@ See [full standards](/standards/).
 
 Acadamic Services
 ======
-1. WCNC 2024/2025 PC member
+
+1. Globecom 2025, WCNC 2024/2025 PC member
 1. ACNS-SCI 2024/2025 Web Chair and PC Member
 1. ACNS-SCI 2023 Publicity Chair and PC Member
 1. ACNS-SCI 2022 Publicity Co-Chairs and PC Member
