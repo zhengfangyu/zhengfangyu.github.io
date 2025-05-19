@@ -98,6 +98,7 @@ Acadamic Services
 1. Cryptography Reviewer
 1. Chinese Journal of Computers Reviewer
 1. Journal of Cryptologic Research Reviewer
+1. Journal of Information Security and Applications Reviewer
 1. PeerJ Computer Science Reviewer
 1. Securecomm 2023 Reviewer
 1. EAI AC3 2022 Reviewer
