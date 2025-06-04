@@ -13,7 +13,7 @@ I am an associate professor in the School of Cryptology, University of Chinese A
 
 I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include CCS, HPCA, CHES, ACSAC, ESORICS, IPDPS, ICPP, TIFS, TC, etc. 
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include CCS, HPCA, CHES, ACSAC, ESORICS, IPDPS, ICPP, TIFS, TC, TPDS, etc. 
 
 My job focuses on **applying cryptography in reality**. Parts of my achievements include:
 * High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
@@ -26,8 +26,8 @@ Seleted Publications (\* denotes the corresponding author.)
 
 1. **[Jour-TPDS2025]** **Fangyu Zheng**, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo
 Dong, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and
-Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, accepted to appear.
-1. **[Conf-HPCA2025]** Guang Fan, Mingzhe Zhang, **Fangyu Zheng**, Shengyu Fan, Tian Zhou, Xianglong Deng, Wenxu Tang, Liang Kong, Yixuan Song, Shoumeng Yan, “WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores”, 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025, accepted to appear.
+Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, [doi: 10.1109/TPDS.2025.3574481](https://www.computer.org/csdl/journal/td/5555/01/11016794/275gzaDiIko).
+1. **[Conf-HPCA2025]** Guang Fan, Mingzhe Zhang, **Fangyu Zheng**, Shengyu Fan, Tian Zhou, Xianglong Deng, Wenxu Tang, Liang Kong, Yixuan Song, Shoumeng Yan, “WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores”, 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025, [doi: 10.1109/HPCA61900.2025.00091](https://www.computer.org/csdl/proceedings-article/hpca/2025/064700b187/25Ko0KYB2Wk).
 1. **[Conf-CCS2024]** Wenxu Tang, **Fangyu Zheng** *, Guang Fan, Tian Zhou, Jingqiang Lin, Jiwu Jing, “DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation”, 31st ACM Conference on Computer and Communications Security (CCS), 2024, [doi: 10.1145/
 3658644.3690280](https://dl.acm.org/doi/abs/10.1145/3658644.3690280). 
 1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, [doi: 10.46586/tches.v2024.i2.25-63](https://tches.iacr.org/index.php/TCHES/article/view/11420).

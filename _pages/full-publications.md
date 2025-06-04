@@ -8,11 +8,12 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+
 1. **[Jour-TPDS2025]** **Fangyu Zheng**, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo
 Dong, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and
-Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, accepted to appear.
+Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, [doi: 10.1109/TPDS.2025.3574481](https://www.computer.org/csdl/journal/td/5555/01/11016794/275gzaDiIko).
 1. **[Jour-TII2025]** Lingjia Meng, Yu Fu, **Fangyu Zheng** *, Mingyu Wang, Ziqiang Ma, Jiankuo Dong, Jingqiang Lin, “HTM-PQC: Hardening Cryptography Keys under the Trend of Post-quantum Cryptography Migration on Industrial Internet”, IEEE Transactions on Industrial Informatics (TII), 2025, [doi: 10.1109/TII.2025.3528582](https://ieeexplore.ieee.org/abstract/document/10854988).
-1. **[Conf-HPCA2025]** Guang Fan, Mingzhe Zhang, **Fangyu Zheng**, Shengyu Fan, Tian Zhou, Xianglong Deng, Wenxu Tang, Liang Kong, Yixuan Song, Shoumeng Yan, “WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores”, 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025, accepted to appear.
+1. **[Conf-HPCA2025]** Guang Fan, Mingzhe Zhang, **Fangyu Zheng**, Shengyu Fan, Tian Zhou, Xianglong Deng, Wenxu Tang, Liang Kong, Yixuan Song, Shoumeng Yan, “WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores”, 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025, [doi: 10.1109/HPCA61900.2025.00091](https://www.computer.org/csdl/proceedings-article/hpca/2025/064700b187/25Ko0KYB2Wk).
 1. **[Conf-TC2024]** Yi Bian,**Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Tian Zhou, Jiankuo Dong, Guang Fan, Jiwu Jing, “AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers”, IEEE Transactions on Computers (TC), 2024, [doi: 10.1109/TC.2024.3477987](https://ieeexplore.ieee.org/abstract/document/10713226). 
 1. **[Conf-ICPADS2024]** Yi Bian, **Fangyu Zheng** *, Jiwu Jing, "TensorPolyMul: Accelerating Polynomial Multiplication in NTT-unfriendly Lattice-based Cryptography Using Tensor Cores", IEEE 30th International Conference on Parallel and Distributed Systems (ICPADS), 2024, [doi: 10.1109/ICPADS63350.2024.00100](https://www.computer.org/csdl/proceedings-article/icpads/2024/159600a737/22f0A3f502s).
 1. **[Conf-CCS2024]** Wenxu Tang, **Fangyu Zheng** *, Guang Fan, Tian Zhou, Jingqiang Lin, Jiwu Jing, “DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation”, 31st ACM Conference on Computer and Communications Security (CCS), 2024, [doi: 10.1145/
