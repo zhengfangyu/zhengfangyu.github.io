@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am an associate professor in the School of Cryptology, University of Chinese Acadamy of Sciences (UCAS). Please visit my [UCAS website](https://people.ucas.ac.cn/~zhengfangyu) for more information.
+I am an associate professor in the School of Cryptology, University of Chinese Acadamy of Sciences. I am also the Chief Engineer of Testing Lab in DCS center, CAS.
 
 I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include CCS, HPCA, CHES, ACSAC, ESORICS, IPDPS, ICPP, TIFS, TC, TPDS, etc. 
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include TIFS, ACSAC, ESORICS, IPDPS, ICPP, ISC, SCN, Securecomm, etc.
 
 My job focuses on **applying cryptography in reality**. Parts of my achievements include:
 * High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
@@ -23,19 +23,11 @@ My job focuses on **applying cryptography in reality**. Parts of my achievements
 
 Seleted Publications (\* denotes the corresponding author.)
 ======
-
-1. **[Jour-TPDS2025]** **Fangyu Zheng**, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo
-Dong, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and
-Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, [doi: 10.1109/TPDS.2025.3574481](https://www.computer.org/csdl/journal/td/5555/01/11016794/275gzaDiIko).
-1. **[Conf-HPCA2025]** Guang Fan, Mingzhe Zhang, **Fangyu Zheng**, Shengyu Fan, Tian Zhou, Xianglong Deng, Wenxu Tang, Liang Kong, Yixuan Song, Shoumeng Yan, “WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores”, 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025, [doi: 10.1109/HPCA61900.2025.00091](https://www.computer.org/csdl/proceedings-article/hpca/2025/064700b187/25Ko0KYB2Wk).
-1. **[Conf-CCS2024]** Wenxu Tang, **Fangyu Zheng** *, Guang Fan, Tian Zhou, Jingqiang Lin, Jiwu Jing, “DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation”, 31st ACM Conference on Computer and Communications Security (CCS), 2024, [doi: 10.1145/
-3658644.3690280](https://dl.acm.org/doi/abs/10.1145/3658644.3690280). 
-1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, [doi: 10.46586/tches.v2024.i2.25-63](https://tches.iacr.org/index.php/TCHES/article/view/11420).
-1. **[Conf-TC2024]** Yi Bian,**Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Tian Zhou, Jiankuo Dong, Guang Fan, Jiwu Jing, “AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers”, IEEE Transactions on Computers (TC), 2024, [doi: 10.1109/TC.2024.3477987](https://ieeexplore.ieee.org/abstract/document/10713226). 
-1. **[Jour-TIFS2024]** Mingyu Wang, **Fangyu Zheng** *, Jingqiang Lin, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", IEEE Transactions on Information Forensics and Security (TIFS), 2024, [doi: 10.1109/TIFS.2024.3435062](https://ieeexplore.ieee.org/document/10613849).
-1. **[Conf-ICPP2023]** Yi Bian, **Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Jiankuo Dong, Jiwu Jing, "AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider". 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, [doi: 10.1145/3605573.3605620](https://dl.acm.org/doi/abs/10.1145/3605573.3605620).
-1. **[Conf-IPDPS2023]** Guang Fan, **Fangyu Zheng** *, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, Jingqiang Lin, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs". 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, [doi: 10.1109/IPDPS54959.2023.00085](https://ieeexplore.ieee.org/abstract/document/10177431/).
-1. **[Conf-ESORICS2022]** Lipeng Wan, **Fangyu Zheng** *, Guang Fan, Rong Wei, Lili Gao, Jiankuo Dong, Yuewu Wang and Jingqiang Lin, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), [doi: 10.1007/978-3-031-17143-7_25](https://link.springer.com/chapter/10.1007/978-3-031-17143-7_25).
+1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, accepted to appear.
+1. **[Conf-ICPP2023]** Yi Bian, **Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Jiankuo Dong, Jiwu Jing, "AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider". 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, accepted to appear.
+1. **[Conf-IPDPS2023]** Guang Fan, **Fangyu Zheng** *, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, Jingqiang Lin, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs". 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, accepted to appear.
+1. **[Conf-ESORICS-2022]** Lipeng Wan, **Fangyu Zheng** *, Guang Fan, Rong Wei, Lili Gao, Jiankuo Dong, Yuewu Wang and Jingqiang Lin, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), [doi: 10.1007/978-3-031-17143-7_25](https://link.springer.com/chapter/10.1007/978-3-031-17143-7_25).
+1. **[Jour-TECS2022]** Jiankuo Dong, **Fangyu Zheng** *, Jingqiang Lin, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", ACM Transactions on Embedded Computing Systems (TECS),  [doi: 10.1145/3492734](https://dl.acm.org/doi/abs/10.1145/3492734).
 1. **[Conf-ACSAC2021]** Rong Wei, **Fangyu Zheng** *, Lili Gao, Jiankuo Dong, Guang Fan, Lipeng Wan, Jingqiang Lin, Yuewu Wang,  “Heterogeneous-PAKE: Bridging the Gap between PAKE Protocols and their Real-World Deployment”, 37th Annual Computer Security Applications Conf (ACSAC), 2021, [doi: 10.1145/3485832.3485877](https://dl.acm.org/doi/10.1145/3485832.3485877).
 1. **[Jour-TIFS2021]** Lili Gao, **Fangyu Zheng** *, Rong Wei, Jiankuo Dong, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, [doi: 10.1109/TIFS.2021.3098987](https://ieeexplore.ieee.org/document/9492115).
 1. **[Book2021]** Jingqiang Lin, **Fangyu Zheng**, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
@@ -48,7 +40,6 @@ See [full publications](/full-publications/).
 
 Fundings and Projects (Hosted)
 ======
-1.  National Cryptographic Science Foundation of China, General Project, "Research on the Integration of AI Accelerators for High-Speed Implementation of Lattice-Based Cryptography" (Grant No. 2025NCSF02005), 2025.
 1.  CCF-Ant R&D Fund, (Grant No. CCF-AFSG RF20230206), 2023.
 1.  Ant Group R&D Fund, 2021 and 2022.
 1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. CCF-RAGR20210131), 2021.
@@ -61,7 +52,6 @@ Fundings and Projects (Hosted)
 
 Awards
 ======
-1. Cryptologic Innovation Award (2nd place), Chinese Association for Cryptologic Research, 2024.
 1. 2nd "Financial Cryptography Cup" National Cryptographic Technology Contest (2nd place, 1st co-winner), 2022.
 1. [Excellent Project](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651537031&idx=2&sn=55d84996e370fc297230f859acb32e0b&chksm=bd4e02e58a398bf3c902913422d0ec7105d2cebf273686f5d50413160b337768dc0dcce2d830&scene=27) of CCF-Tencent Rhino-Bird Young Faculty Open Research Fund (8/34), 2022.
 1. Cryptologic Science and Technology Progress Award of China (3rd place, 3rd co-winner), 2021.
@@ -80,31 +70,18 @@ See [full standards](/standards/).
 
 Acadamic Services
 ======
-
-1. Globecom 2025, WCNC 2024/2025 PC member
-1. ACNS-SCI 2024/2025 Web Chair and PC Member
-1. ACNS-SCI 2023 Publicity Chair and PC Member
+1. IEEE Transactions on Computers (TC) Reviewer
+1. Elsevier Journal of Systems Architecture (JSA) Reviewer
+1. Chinese Journal of Computers Reviewer
+1. PeerJ Computer Science Reviewer
+1. Securecomm 2023 Reviewer
+1. ACNS-SCI 2023 Web Chair and PC Member
+1. EAI AC3 2022 Reviewer
 1. ACNS-SCI 2022 Publicity Co-Chairs and PC Member
 1. ACNS-SCI 2021 PC Member
 1. ACNS-SCI 2020 PC Member
-1. IEEE Transactions on Computers (TC) Reviewer
-1. Elsevier Journal of Systems Architecture (JSA) Reviewer
-1. Expert Systems With Applications Reviewer
-1. Journal of Information Security and Applications Reviewer
-1. Integration, the VLSI Journal Reviewer
-1. Applied Sciences Reviewer
-1. Cybersecurity Reviewer
-1. Cryptography Reviewer
-1. Chinese Journal of Computers Reviewer
-1. Journal of Cryptologic Research Reviewer
-1. Journal of Information Security and Applications Reviewer
-1. PeerJ Computer Science Reviewer
-1. Securecomm 2023 Reviewer
-1. EAI AC3 2022 Reviewer
 
-
-
-Supervised and Co-supervised Students
+Co-supervised Students
 ======
 
 1. Juanjuan Cheng (Master, graduated in 2018)
@@ -115,15 +92,9 @@ Supervised and Co-supervised Students
 1. Lili Gao (Ph.D., graduated in 2022)
 1. Lipeng Wan (Ph.D., graduated in 2023)
 1. Guang Fan (Ph.D., graduated in 2023)
-1. Lingjia Meng (Ph.D. graduated in 2024)
-1. Haoling Fan (Ph.D. graduated in 2024)
-1. Mingyu Wang (Ph.D. graduated in 2024)
-1. Yi Bian (Ph.D. graduated in 2024)
-1. Tian Zhou (Ph.D. candidate)
-1. Wenxu Tang (Ph.D. candidate)
-1. Kai Sun (Master candidate)
-1. Zhuoyu Xie (Ph.D. candidate)
-1. Ziming Wang (Master candidate)
+1. Lingjia Meng (Ph.D. candidate)
+1. Haoling Fan (Ph.D. candidate)
+1. Yi Bian（Ph.D. candidate）
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qYFf_TmdO5Vj5Bt80qHDTixnXUwdGwN0pTgUit9SCVk&cl=ffffff&w=a"></script>
