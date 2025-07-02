@@ -23,7 +23,7 @@ My job focuses on **applying cryptography in reality**. Parts of my achievements
 
 Seleted Publications (\* denotes the corresponding author.)
 ======
-
+<!-- 1. **[Conf-CCS2025]** Tian Zhou, **Fangyu Zheng** *, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian,  Jingqiang Lin, Jiwu Jing, “ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design”, 32nd ACM Conference on Computer and Communications Security (CCS), 2025, accepted to appear.  -->
 1. **[Jour-TPDS2025]** **Fangyu Zheng**, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo
 Dong, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and
 Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, [doi: 10.1109/TPDS.2025.3574481](https://www.computer.org/csdl/journal/td/5555/01/11016794/275gzaDiIko).
@@ -81,7 +81,7 @@ See [full standards](/standards/).
 Acadamic Services
 ======
 
-1. Globecom 2025, WCNC 2024/2025 PC member
+1. Globecom 2025, WCNC 2024/2025, Inscrypt 2025 PC member
 1. ACNS-SCI 2024/2025 Web Chair and PC Member
 1. ACNS-SCI 2023 Publicity Chair and PC Member
 1. ACNS-SCI 2022 Publicity Co-Chairs and PC Member
