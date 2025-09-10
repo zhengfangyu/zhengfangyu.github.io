@@ -8,6 +8,7 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+1. **[Jour-TIFS2025]** Dongchi Han, Yuan Ma, Tianyu Chen, Shijie Jia, Na Lv, **Fangyu Zheng**, Xianhui Lu, "Revisiting Prediction-Based Min-entropy Estimation: Towards Interpretability, Reliability, and Applicability", IEEE Transactions on Information Forensics and Security (TIFS), 2024, [doi: 10.1109/TIFS.2025.3607168](https://ieeexplore.ieee.org/document/11153604).
 1. **[Conf-CCS2025]** Tian Zhou, **Fangyu Zheng** *, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian,  Jingqiang Lin, Jiwu Jing, “ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design”, 32nd ACM Conference on Computer and Communications Security (CCS), 2025, accepted to appear.  
 1. **[Jour-TPDS2025]** **Fangyu Zheng**, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo
 Dong, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and
