@@ -89,20 +89,20 @@ Acadamic Services
 1. ACNS-SCI 2020 PC Member
 1. IEEE Transactions on Computers (TC) Reviewer
 1. Elsevier Journal of Systems Architecture (JSA) Reviewer
-1. Expert Systems With Applications Reviewer
-1. Journal of Information Security and Applications Reviewer
+1. Expert Systems With Applications (ESWA) Reviewer
+1. Journal of Cryptographic Engineering (JCEN) Reviewer
+1. Journal of Information Security and Applications (JISA) Reviewer
 1. Integration, the VLSI Journal Reviewer
 1. Applied Sciences Reviewer
 1. Cybersecurity Reviewer
 1. Cryptography Reviewer
+1. Mathematics Reviewer
 1. Chinese Journal of Computers Reviewer
 1. Journal of Cryptologic Research Reviewer
 1. Journal of Information Security and Applications Reviewer
 1. PeerJ Computer Science Reviewer
 1. Securecomm 2023 Reviewer
 1. EAI AC3 2022 Reviewer
-
-
 
 Supervised and Co-supervised Students
 ======
