@@ -61,6 +61,8 @@ Fundings and Projects (Hosted)
 
 Awards
 ======
+1. Electronic Information Teaching Achievement Award (2nd place, 5th winner), Chinese Institute of Electronics (CIE), 2025.
+1. The 16th National Symposium on Cryptology and Information Security Education, A Education and Teaching Incentive Program (Class A), 2025.
 1. Cryptologic Innovation Award (2nd place), Chinese Association for Cryptologic Research, 2024.
 1. 2nd "Financial Cryptography Cup" National Cryptographic Technology Contest (2nd place, 1st co-winner), 2022.
 1. [Excellent Project](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651537031&idx=2&sn=55d84996e370fc297230f859acb32e0b&chksm=bd4e02e58a398bf3c902913422d0ec7105d2cebf273686f5d50413160b337768dc0dcce2d830&scene=27) of CCF-Tencent Rhino-Bird Young Faculty Open Research Fund (8/34), 2022.
