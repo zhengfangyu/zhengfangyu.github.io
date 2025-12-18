@@ -61,7 +61,7 @@ Fundings and Projects (Hosted)
 
 Awards
 ======
-1. Electronic Information Teaching Achievement Award (2nd place, 5th winner), Chinese Institute of Electronics (CIE), 2025.
+1. Electronic Information Teaching Achievement Award (1st place, 5th winner), Chinese Institute of Electronics (CIE), 2025.
 1. The 16th National Symposium on Cryptology and Information Security Education, A Education and Teaching Incentive Program (Class A), 2025.
 1. Cryptologic Innovation Award (2nd place), Chinese Association for Cryptologic Research, 2024.
 1. 2nd "Financial Cryptography Cup" National Cryptographic Technology Contest (2nd place, 1st co-winner), 2022.
