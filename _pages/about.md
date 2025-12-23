@@ -46,7 +46,7 @@ Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Powe
 
 See [full publications](/full-publications/).
 
-Fundings and Projects (Hosted)
+Fundings and Projects (PI)
 ======
 1.  National Cryptographic Science Foundation of China, General Project, "Research on the Integration of AI Accelerators for High-Speed Implementation of Lattice-Based Cryptography" (Grant No. 2025NCSF02005), 2025.
 1.  CCF-Ant R&D Fund, (Grant No. CCF-AFSG RF20230206), 2023.
@@ -61,6 +61,7 @@ Fundings and Projects (Hosted)
 
 Awards
 ======
+1. Science and Technology Award of the China Institute of Communications (2nd place, 5th winner), 2025.
 1. Electronic Information Teaching Achievement Award (1st place, 5th winner), Chinese Institute of Electronics (CIE), 2025.
 1. The 16th National Symposium on Cryptology and Information Security Education, A Education and Teaching Incentive Program (Class A), 2025.
 1. Cryptologic Innovation Award (2nd place), Chinese Association for Cryptologic Research, 2024.
