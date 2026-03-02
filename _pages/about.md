@@ -49,7 +49,8 @@ See [full publications](/full-publications/).
 
 Fundings and Projects (PI)
 ======
-1.  National Cryptographic Science Foundation of China, General Project, "Research on the Integration of AI Accelerators for High-Speed Implementation of Lattice-Based Cryptography" (Grant No. 2025NCSF02005), 2025.
+1. Major National Science and Technology Projects, 2026.
+1. National Cryptographic Science Foundation of China, General Project, "Research on the Integration of AI Accelerators for High-Speed Implementation of Lattice-Based Cryptography" (Grant No. 2025NCSF02005), 2025.
 1.  CCF-Ant R&D Fund, (Grant No. CCF-AFSG RF20230206), 2023.
 1.  Ant Group R&D Fund, 2021 and 2022.
 1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. CCF-RAGR20210131), 2021.
@@ -84,7 +85,7 @@ See [full standards](/standards/).
 
 Acadamic Services
 ======
-
+1. ACM CCS 2026 PC member
 1. Globecom 2025, WCNC 2024/2025, Inscrypt 2025 PC member
 1. ACNS-SCI 2024/2025 Web Chair and PC Member
 1. ACNS-SCI 2023 Publicity Chair and PC Member
