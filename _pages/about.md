@@ -23,7 +23,7 @@ My job focuses on **applying cryptography in reality**. Parts of my achievements
 
 Seleted Publications (\* denotes the corresponding author.)
 ======
-
+1. **[Conf-CHES2026]** Yanren Chen, **Fangyu Zheng** *, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, Jingqiang Lin and Jiwu Jing, “BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies”, 28th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2026.
 1. **[Conf-CCS2025]** Tian Zhou, **Fangyu Zheng** *, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian,  Jingqiang Lin, Jiwu Jing, “ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design”, 32nd ACM Conference on Computer and Communications Security (CCS), 2025, [doi: 10.1145/3719027.3765130](https://dl.acm.org/doi/10.1145/3719027.3765130). 
 1. **[Jour-TPDS2025]** **Fangyu Zheng**, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo
 Dong, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and
