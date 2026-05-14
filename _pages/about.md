@@ -3,36 +3,36 @@ permalink: /
 title: "Zheng, Fangyu's Homepage"
 excerpt: "Zheng, Fangyu's Homepage"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 
-I am an associate professor in the School of Cryptology, University of Chinese Acadamy of Sciences (UCAS). Please visit my [UCAS website](https://people.ucas.ac.cn/~zhengfangyu) for more information.
+I am an associate professor in the School of Cryptology, University of Chinese Academy of Sciences (UCAS). Please visit my [UCAS website](https://people.ucas.ac.cn/~zhengfangyu) for more information.
 
-I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
+I received Bachelor’s degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Academy of Sciences (UCAS).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include CCS, HPCA, CHES, ACSAC, ESORICS, IPDPS, ICPP, TIFS, TC, TPDS, etc. 
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include CCS, HPCA, CHES, ACSAC, ESORICS, IPDPS, ICPP, TIFS, TC, TPDS, etc.
 
 My job focuses on **applying cryptography in reality**. Parts of my achievements include:
-* High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
-* Secure and fast software cryptographic implementations (numberous publications and implementations).
-* Cryptography evaluation methods (2 fundamental standards, i.e., GB/T 37092 and GB/T 39786). 
+* High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certified).
+* Secure and fast software cryptographic implementations (numerous publications and implementations).
+* Cryptography evaluation methods (2 fundamental standards, i.e., GB/T 37092 and GB/T 39786).
 
 
-Seleted Publications (\* denotes the corresponding author.)
+Selected Publications (\* denotes the corresponding author.)
 ======
 1. **[Conf-CHES2026]** Yanren Chen, **Fangyu Zheng** *, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, Jingqiang Lin and Jiwu Jing, “BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies”, 28th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2026.
-1. **[Conf-CCS2025]** Tian Zhou, **Fangyu Zheng** *, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian,  Jingqiang Lin, Jiwu Jing, “ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design”, 32nd ACM Conference on Computer and Communications Security (CCS), 2025, [doi: 10.1145/3719027.3765130](https://dl.acm.org/doi/10.1145/3719027.3765130). 
+1. **[Conf-CCS2025]** Tian Zhou, **Fangyu Zheng** *, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian, Jingqiang Lin, Jiwu Jing, “ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design”, 32nd ACM Conference on Computer and Communications Security (CCS), 2025, [doi: 10.1145/3719027.3765130](https://dl.acm.org/doi/10.1145/3719027.3765130).
 1. **[Jour-TPDS2025]** **Fangyu Zheng**, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo
 Dong, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and
 Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, [doi: 10.1109/TPDS.2025.3574481](https://www.computer.org/csdl/journal/td/5555/01/11016794/275gzaDiIko).
 1. **[Conf-HPCA2025]** Guang Fan, Mingzhe Zhang, **Fangyu Zheng**, Shengyu Fan, Tian Zhou, Xianglong Deng, Wenxu Tang, Liang Kong, Yixuan Song, Shoumeng Yan, “WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores”, 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025, [doi: 10.1109/HPCA61900.2025.00091](https://www.computer.org/csdl/proceedings-article/hpca/2025/064700b187/25Ko0KYB2Wk).
 1. **[Conf-CCS2024]** Wenxu Tang, **Fangyu Zheng** *, Guang Fan, Tian Zhou, Jingqiang Lin, Jiwu Jing, “DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation”, 31st ACM Conference on Computer and Communications Security (CCS), 2024, [doi: 10.1145/
-3658644.3690280](https://dl.acm.org/doi/abs/10.1145/3658644.3690280). 
+3658644.3690280](https://dl.acm.org/doi/abs/10.1145/3658644.3690280).
 1. **[Conf-CHES2024]** Tian Zhou, **Fangyu Zheng** *, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", 26th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2024, [doi: 10.46586/tches.v2024.i2.25-63](https://tches.iacr.org/index.php/TCHES/article/view/11420).
-1. **[Conf-TC2024]** Yi Bian,**Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Tian Zhou, Jiankuo Dong, Guang Fan, Jiwu Jing, “AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers”, IEEE Transactions on Computers (TC), 2024, [doi: 10.1109/TC.2024.3477987](https://ieeexplore.ieee.org/abstract/document/10713226). 
+1. **[Conf-TC2024]** Yi Bian, **Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Tian Zhou, Jiankuo Dong, Guang Fan, Jiwu Jing, “AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers”, IEEE Transactions on Computers (TC), 2024, [doi: 10.1109/TC.2024.3477987](https://ieeexplore.ieee.org/abstract/document/10713226).
 1. **[Jour-TIFS2024]** Mingyu Wang, **Fangyu Zheng** *, Jingqiang Lin, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", IEEE Transactions on Information Forensics and Security (TIFS), 2024, [doi: 10.1109/TIFS.2024.3435062](https://ieeexplore.ieee.org/document/10613849).
 1. **[Conf-ICPP2023]** Yi Bian, **Fangyu Zheng** *, Yuewu Wang, Lingguang Lei, Yuan Ma, Jiankuo Dong, Jiwu Jing, "AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider". 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, [doi: 10.1145/3605573.3605620](https://dl.acm.org/doi/abs/10.1145/3605573.3605620).
 1. **[Conf-IPDPS2023]** Guang Fan, **Fangyu Zheng** *, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, Jingqiang Lin, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs". 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, [doi: 10.1109/IPDPS54959.2023.00085](https://ieeexplore.ieee.org/abstract/document/10177431/).
@@ -51,15 +51,15 @@ Fundings and Projects (PI)
 ======
 1. Major National Science and Technology Projects, 2026.
 1. National Cryptographic Science Foundation of China, General Project, "Research on the Integration of AI Accelerators for High-Speed Implementation of Lattice-Based Cryptography" (Grant No. 2025NCSF02005), 2025.
-1.  CCF-Ant R&D Fund, (Grant No. CCF-AFSG RF20230206), 2023.
-1.  Ant Group R&D Fund, 2021 and 2022.
-1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. CCF-RAGR20210131), 2021.
-1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund (Grant No. CCF-RAGR20210131), 2021.
-1.  National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.
-1.  National Key R&D Plan of China, "Cryptography Application Security Evaluation of Mobile Government Service", 2018.
-1.  National Key R&D Plan of China, "Architecuture of Cryptographic Service Supporting Infrastructures and Research on Cryptographic Key Management Technology in the Mobile Internet (Grant No. 2017YFB0802101)", 2017.  
-1.  National Key R&D Plan of China, "Key Technologies of Cryptographic Cloud Service (Grant No. 2017YFB0802103)", 2017. 
-1.  Imported Outstanding Young Talents of IIE-CAS, 2017.
+1. CCF-Ant R&D Fund, (Grant No. CCF-AFSG RF20230206), 2023.
+1. Ant Group R&D Fund, 2021 and 2022.
+1. CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. CCF-RAGR20210131), 2021.
+1. CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund (Grant No. CCF-RAGR20210131), 2021.
+1. National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.
+1. National Key R&D Plan of China, "Cryptography Application Security Evaluation of Mobile Government Service", 2018.
+1. National Key R&D Plan of China, "Architecture of Cryptographic Service Supporting Infrastructures and Research on Cryptographic Key Management Technology in the Mobile Internet (Grant No. 2017YFB0802101)", 2017.
+1. National Key R&D Plan of China, "Key Technologies of Cryptographic Cloud Service (Grant No. 2017YFB0802103)", 2017.
+1. Imported Outstanding Young Talents of IIE-CAS, 2017.
 
 Awards
 ======
@@ -75,15 +75,15 @@ Awards
 
 Standards
 ======
-1. GB/T 37092-2018 ["Information security technology—Security requirements for cryptographic modules"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657) 
-1. GB/T 39786-2021 ["Information security technology—Baseline for information system cryptography application"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC) 
-1. GB/T 40018-2021 ["Information security technology—Certificate request and application protocol based on multiple channels"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF) 
+1. GB/T 37092-2018 ["Information security technology—Security requirements for cryptographic modules"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657)
+1. GB/T 39786-2021 ["Information security technology—Baseline for information system cryptography application"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC)
+1. GB/T 40018-2021 ["Information security technology—Certificate request and application protocol based on multiple channels"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
 1. GB/T 43206-2023 [Information security technology—Testing and evaluation requirements for information system cryptography application](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EE1B34C97A17C6F13FA9A9D891C144C2)
 1. GB/T 43207-2023 [Information security technology—Guidelines of design for information system cryptography application](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=851A7FC4DDC2F6E9BE2677127863CCF8)
 
 See [full standards](/standards/).
 
-Acadamic Services
+Academic Services
 ======
 1. ACM CCS 2026 PC member
 1. Globecom 2025, WCNC 2024/2025, Inscrypt 2025 PC member

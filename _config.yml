@@ -17,7 +17,7 @@ repository               : "zhengfangyu/zhengfangyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -25,7 +25,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963, e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TWyTZp0AAAAJ&hl=en"
-  email            :  zhengfy1028@hotmail.com; zhengfangyu@ucas.ac.cn
+  email            : zhengfy1028@hotmail.com; zhengfangyu@ucas.ac.cn
   researchgate     :  "https://www.researchgate.net/profile/Fangyu-Zheng"
   uri              :
   bitbucket        :
