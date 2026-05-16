@@ -86,7 +86,7 @@ See [full standards](/standards/).
 Academic Services
 ======
 1. ACM CCS 2026 PC member
-1. Globecom 2025, WCNC 2024/2025, Inscrypt 2025 PC member
+1. Globecom 2025-2026, WCNC 2024-2026, Inscrypt 2025-2026 PC member
 1. ACNS-SCI 2024/2025 Web Chair and PC Member
 1. ACNS-SCI 2023 Publicity Chair and PC Member
 1. ACNS-SCI 2022 Publicity Co-Chairs and PC Member
