@@ -1,6 +1,7 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
+published: false
 permalink: /publication/Full publications
 excerpt: ''
 date: 2009-10-01
