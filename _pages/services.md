@@ -18,7 +18,7 @@ Program Committee
 
 Reviewer
 ------
-- **IEEE TDSC, TIFS, TC** (2025)
+- **IEEE TDSC, TIFS, TC, TII** 
 - **Journal of Cryptographic Engineering (JCEN)**
 - **Chinese Journal of Computers**
 - **Journal of Cryptologic Research**
@@ -30,7 +30,6 @@ Reviewer
 - Cybersecurity
 - Cryptography
 - Mathematics
-- Chinese Journal of Computers
 - PeerJ Computer Science
 - SecureComm (2023)
 - EAI AC3 (2022)
