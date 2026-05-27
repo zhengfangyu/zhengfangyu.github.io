@@ -5,8 +5,6 @@ excerpt: "Academic Services"
 author_profile: true
 ---
 
-Services
-======
 
 Program Committee
 ------
