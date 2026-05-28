@@ -23,7 +23,7 @@ My job focuses on **applying cryptography in reality**. Parts of my achievements
 
 Selected Publications (\* denotes the corresponding author.)
 ======
-1. **[Conf-CHES2026]** Yanren Chen, **Fangyu Zheng** *, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, Jingqiang Lin and Jiwu Jing, “BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies”, 28th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2026.
+1. **[Conf-CHES2026]** Yanren Chen, **Fangyu Zheng** *, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, Jingqiang Lin and Jiwu Jing, “BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies”, 28th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2026. [PDF](/assets/papers/CHES2026.pdf)
 1. **[Conf-CCS2025]** Tian Zhou, **Fangyu Zheng** *, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian, Jingqiang Lin, Jiwu Jing, “ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design”, 32nd ACM Conference on Computer and Communications Security (CCS), 2025, [doi: 10.1145/3719027.3765130](https://dl.acm.org/doi/10.1145/3719027.3765130). [PDF](/assets/papers/CCS2025.pdf)
 1. **[Jour-TPDS2025]** **Fangyu Zheng**, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo
 Dong, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and
@@ -46,6 +46,173 @@ Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Powe
 1. **[Conf-ISC2014]** **Fangyu Zheng**, Wuqiong Pan *, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Floating-Point Computing Power of GPUs for RSA”, 17th Information Security Conf (ISC), **Best Student Paper Award**, 2014. [doi: 10.1007/978-3-319-13257-0_12](https://link.springer.com/chapter/10.1007/978-3-319-13257-0_12). [PDF](/assets/papers/ISC2014.pdf)
 
 See [full publications](/full-publications/).
+
+Featured Research
+======
+
+<style>
+.featured-research-list {
+  display: grid;
+  gap: 1.25rem;
+  margin: 1rem 0 2rem;
+}
+
+.featured-research-card {
+  border: 1px solid #7fb8c8;
+  border-left: 5px solid #087f8c;
+  border-radius: 8px;
+  background: #fffdfa;
+  display: grid;
+  grid-template-columns: minmax(240px, 42%) 1fr;
+  gap: 1rem;
+  padding: 1rem;
+  box-shadow: 0 10px 24px rgba(20, 70, 80, 0.08);
+}
+
+.featured-research-media {
+  align-self: center;
+  display: grid;
+  gap: 0.65rem;
+}
+
+.featured-research-media img {
+  width: 100%;
+  max-height: 360px;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid #e3ecef;
+  border-radius: 6px;
+  padding: 0.35rem;
+}
+
+.featured-research-figure {
+  display: grid;
+}
+
+.featured-research-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  color: #0f4f5a;
+  line-height: 1.25;
+}
+
+.featured-research-authors {
+  color: #34464b;
+  font-weight: 600;
+  margin-bottom: 0.55rem;
+}
+
+.featured-research-venue {
+  color: #56656a;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.featured-research-links {
+  margin-bottom: 0;
+}
+
+@media (max-width: 820px) {
+  .featured-research-card {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<div class="featured-research-list">
+  <article class="featured-research-card">
+    <div class="featured-research-media">
+      <div class="featured-research-figure">
+        <img src="/assets/images/research/ches2026-fig4.png" alt="BOLT-FHE Figure 4: Blind Rotation MegaKernel overview">
+      </div>
+    </div>
+    <div class="featured-research-copy">
+      <h3>BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies</h3>
+      <p class="featured-research-authors">Yanren Chen, Fangyu Zheng, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, Jingqiang Lin, Jiwu Jing</p>
+      <p><strong>Abstract:</strong> BOLT-FHE accelerates TFHE bootstrapping on GPUs by using on-chip local tiling and fused kernel designs to reduce memory traffic and synchronization overhead, providing a unified and efficient bootstrapping framework across parameter sets.</p>
+      <p class="featured-research-venue">CHES 2026</p>
+      <p class="featured-research-links">[<a href="/assets/papers/CHES2026.pdf">Paper</a>]</p>
+    </div>
+  </article>
+
+  <article class="featured-research-card">
+    <div class="featured-research-media">
+      <div class="featured-research-figure">
+        <img src="/assets/images/research/ccs2025-fig1.png" alt="ML-Cube Figure 1: Tensor Core matrix multiplication">
+      </div>
+      <div class="featured-research-figure">
+        <img src="/assets/images/research/ccs2025-fig7.png" alt="ML-Cube Figure 7: ML-DSA signing based on ML-PolyMul">
+      </div>
+    </div>
+    <div class="featured-research-copy">
+      <h3>ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design</h3>
+      <p class="featured-research-authors">Tian Zhou, Fangyu Zheng, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian, Jingqiang Lin, Jiwu Jing</p>
+      <p><strong>Abstract:</strong> ML-Cube maps the core polynomial computations in ML-KEM and ML-DSA onto machine learning accelerators. It leverages Tensor Core matrix operations and a memory-less design to reduce memory accesses and improve the throughput and latency of module-lattice-based cryptography.</p>
+      <p class="featured-research-venue">ACM CCS 2025</p>
+      <p class="featured-research-links">[<a href="/assets/papers/CCS2025.pdf">Paper</a>] [<a href="https://dl.acm.org/doi/10.1145/3719027.3765130">DOI</a>]</p>
+    </div>
+  </article>
+
+  <article class="featured-research-card">
+    <div class="featured-research-media">
+      <div class="featured-research-figure">
+        <img src="/assets/images/research/ccs2024-fig2.png" alt="DPad-HE Figure 2: HMult procedure">
+      </div>
+    </div>
+    <div class="featured-research-copy">
+      <h3>DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation</h3>
+      <p class="featured-research-authors">Wenxu Tang, Fangyu Zheng, Guang Fan, Tian Zhou, Jingqiang Lin, Jiwu Jing</p>
+      <p><strong>Abstract:</strong> DPad-HE reorganizes the dataflow of homomorphic multiplication and key switching. Its four-directional manipulation reduces complex transformations and memory pressure in RNS-CKKS computation, making homomorphic evaluation more hardware-friendly.</p>
+      <p class="featured-research-venue">ACM CCS 2024</p>
+      <p class="featured-research-links">[<a href="/assets/papers/CCS2024.pdf">Paper</a>] [<a href="https://dl.acm.org/doi/abs/10.1145/3658644.3690280">DOI</a>]</p>
+    </div>
+  </article>
+
+  <article class="featured-research-card">
+    <div class="featured-research-media">
+      <div class="featured-research-figure">
+        <img src="/assets/images/research/tpds2025-fig1.png" alt="GIF-FHE Figure 1: Roadmap of GIF-FHE">
+      </div>
+    </div>
+    <div class="featured-research-copy">
+      <h3>GIF-FHE: A Comprehensive Implementation and Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power</h3>
+      <p class="featured-research-authors">Fangyu Zheng, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo Dong, Jingqiang Lin, Shoumeng Yan, Jiwu Jing</p>
+      <p><strong>Abstract:</strong> GIF-FHE systematically explores how INT32, INT64, and FP64 computing resources on GPUs can support FHE. It provides a complete implementation and evaluation path from low-level arithmetic and kernel optimizations to accelerated homomorphic operations.</p>
+      <p class="featured-research-venue">IEEE TPDS 2025</p>
+      <p class="featured-research-links">[<a href="/assets/papers/TPDS2025.pdf">Paper</a>] [<a href="https://www.computer.org/csdl/journal/td/5555/01/11016794/275gzaDiIko">DOI</a>]</p>
+    </div>
+  </article>
+
+  <article class="featured-research-card">
+    <div class="featured-research-media">
+      <div class="featured-research-figure">
+        <img src="/assets/images/research/tc2024-fig2.png" alt="AsyncGBP+ Figure 2: Overall architecture">
+      </div>
+    </div>
+    <div class="featured-research-copy">
+      <h3>AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers</h3>
+      <p class="featured-research-authors">Yi Bian, Fangyu Zheng, Yuewu Wang, Lingguang Lei, Yuan Ma, Tian Zhou, Jiankuo Dong, Guang Fan, Jiwu Jing</p>
+      <p><strong>Abstract:</strong> AsyncGBP+ bridges the OpenSSL provider mechanism and GPU-based heterogeneous computing. It uses asynchronous jobs, request pools, and buffering mechanisms to balance batching and latency in TLS cryptographic operations.</p>
+      <p class="featured-research-venue">IEEE Transactions on Computers, 2025 issue</p>
+      <p class="featured-research-links">[<a href="/assets/papers/TC2024.pdf">Paper</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/10713226">DOI</a>]</p>
+    </div>
+  </article>
+
+  <article class="featured-research-card">
+    <div class="featured-research-media">
+      <div class="featured-research-figure">
+        <img src="/assets/images/research/ches2024-fig16.png" alt="ConvKyber Figure 16: 3-phase NTT process">
+      </div>
+    </div>
+    <div class="featured-research-copy">
+      <h3>ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches</h3>
+      <p class="featured-research-authors">Tian Zhou, Fangyu Zheng, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, Jingqiang Lin</p>
+      <p><strong>Abstract:</strong> ConvKyber accelerates the core NTT and matrix-related computations in Kyber with AI accelerators. Its iteration-based design and register-based dataflow reduce extra data movement and offer a new acceleration path for lattice-based cryptographic implementations.</p>
+      <p class="featured-research-venue">CHES 2024</p>
+      <p class="featured-research-links">[<a href="/assets/papers/CHES2024.pdf">Paper</a>] [<a href="https://tches.iacr.org/index.php/TCHES/article/view/11420">DOI</a>]</p>
+    </div>
+  </article>
+</div>
 
 Fundings and Projects (PI)
 ======
