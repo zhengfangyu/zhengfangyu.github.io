@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-Supervised and Co-supervised Students
-======
-
 Graduated Students
 ------
 1. Juanjuan Cheng (Master, graduated in 2018)
