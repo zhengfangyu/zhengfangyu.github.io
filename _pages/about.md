@@ -265,7 +265,7 @@ Academic Services
 1. ACNS-SCI 2024/2025 Web Chair and PC Member
 1. IEEE TDSC, TIFS, TC Reviewer
 1. Journal of Cryptologic Research Reviewer
-1. Chinese Journal of Computers
+1. Chinese Journal of Computers Reviewer
 
 
 See [full services](/services/) and [students](/students/).
