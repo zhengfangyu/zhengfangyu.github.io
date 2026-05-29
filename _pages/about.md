@@ -201,7 +201,7 @@ Featured Research
       <h3>AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers</h3>
       <p class="featured-research-authors">Yi Bian, Fangyu Zheng, Yuewu Wang, Lingguang Lei, Yuan Ma, Tian Zhou, Jiankuo Dong, Guang Fan, Jiwu Jing</p>
       <p><strong>Abstract:</strong> AsyncGBP+ bridges the OpenSSL provider mechanism and GPU-based heterogeneous computing. It uses asynchronous jobs, request pools, and buffering mechanisms to balance batching and latency in TLS cryptographic operations.</p>
-      <p class="featured-research-venue">IEEE TC 2025 issue</p>
+      <p class="featured-research-venue">IEEE TC 2025</p>
       <p class="featured-research-links">[<a href="/assets/papers/TC2024.pdf">Paper</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/10713226">DOI</a>]</p>
     </div>
   </article>
