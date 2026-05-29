@@ -224,29 +224,29 @@ Featured Research
 
 Fundings and Projects (PI)
 ======
-1. Major National Science and Technology Projects, 2026.<br><span class="item-cn-name"><em>中文：国家科技重大专项</em></span>
-1. National Cryptographic Science Foundation of China, General Project, "Research on the Integration of AI Accelerators for High-Speed Implementation of Lattice-Based Cryptography" (Grant No. 2025NCSF02005), 2025.<br><span class="item-cn-name"><em>中文：国家密码科学基金“AI加速器融合的格密码算法高速实现”</em></span>
-1. CCF-Ant R&D Fund, (Grant No. CCF-AFSG RF20230206), 2023.<br><span class="item-cn-name"><em>中文：中国计算机学会（CCF）-蚂蚁科研基金</em></span>
-1. Ant Group R&D Fund, 2021 and 2022.<br><span class="item-cn-name"><em>中文：蚂蚁金服科研基金</em></span>
-1. CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. CCF-RAGR20210131), 2021.<br><span class="item-cn-name"><em>中文：中国计算机学会（CCF）-腾讯犀牛鸟基金科研基金</em></span>
-1. CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund (Grant No. CCF-RAGR20210131), 2021.<br><span class="item-cn-name"><em>中文：中国计算机学会（CCF）-腾讯犀牛鸟基金标准化基金</em></span>
-1. National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.<br><span class="item-cn-name"><em>中文：国家自然科学基金青年项目“基于并行平台和人工智能加速器的高性能密码实现技术”</em></span>
-1. National Key R&D Plan of China, "Cryptography Application Security Evaluation of Mobile Government Service", 2018.<br><span class="item-cn-name"><em>中文：国家重点研发计划子课题“移动政务密码应用安全性评估”</em></span>
-1. National Key R&D Plan of China, "Architecture of Cryptographic Service Supporting Infrastructures and Research on Cryptographic Key Management Technology in the Mobile Internet (Grant No. 2017YFB0802101)", 2017.<br><span class="item-cn-name"><em>中文：国家重点研发计划子课题“移动互联网密码服务支撑基础设施体系架构和密钥管理技术研究”</em></span>
-1. National Key R&D Plan of China, "Key Technologies of Cryptographic Cloud Service (Grant No. 2017YFB0802103)", 2017.<br><span class="item-cn-name"><em>中文：国家重点研发计划子课题“移动互联网密码云服务”</em></span>
-1. Imported Outstanding Young Talents of IIE-CAS, 2017.<br><span class="item-cn-name"><em>中文：中科院信工所引进优秀青年人才</em></span>
+1. Major National Science and Technology Projects, 2026.<br><span class="item-cn-name"><em>国家科技重大专项</em></span>
+1. National Cryptographic Science Foundation of China, General Project, "Research on the Integration of AI Accelerators for High-Speed Implementation of Lattice-Based Cryptography" (Grant No. 2025NCSF02005), 2025.<br><span class="item-cn-name"><em>国家密码科学基金“AI加速器融合的格密码算法高速实现”</em></span>
+1. CCF-Ant R&D Fund, (Grant No. CCF-AFSG RF20230206), 2023.<br><span class="item-cn-name"><em>中国计算机学会（CCF）-蚂蚁科研基金</em></span>
+1. Ant Group R&D Fund, 2021 and 2022.<br><span class="item-cn-name"><em>蚂蚁金服科研基金</em></span>
+1. CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. CCF-RAGR20210131), 2021.<br><span class="item-cn-name"><em>中国计算机学会（CCF）-腾讯犀牛鸟基金科研基金</em></span>
+1. CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund (Grant No. CCF-RAGR20210131), 2021.<br><span class="item-cn-name"><em>中国计算机学会（CCF）-腾讯犀牛鸟基金标准化基金</em></span>
+1. National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.<br><span class="item-cn-name"><em>国家自然科学基金青年项目“基于并行平台和人工智能加速器的高性能密码实现技术”</em></span>
+1. National Key R&D Plan of China, "Cryptography Application Security Evaluation of Mobile Government Service", 2018.<br><span class="item-cn-name"><em>国家重点研发计划子课题“移动政务密码应用安全性评估”</em></span>
+1. National Key R&D Plan of China, "Architecture of Cryptographic Service Supporting Infrastructures and Research on Cryptographic Key Management Technology in the Mobile Internet (Grant No. 2017YFB0802101)", 2017.<br><span class="item-cn-name"><em>国家重点研发计划子课题“移动互联网密码服务支撑基础设施体系架构和密钥管理技术研究”</em></span>
+1. National Key R&D Plan of China, "Key Technologies of Cryptographic Cloud Service (Grant No. 2017YFB0802103)", 2017.<br><span class="item-cn-name"><em>国家重点研发计划子课题“移动互联网密码云服务”</em></span>
+1. Imported Outstanding Young Talents of IIE-CAS, 2017.<br><span class="item-cn-name"><em>中科院信工所引进优秀青年人才</em></span>
 
 Awards
 ======
-1. Science and Technology Award of the China Institute of Communications (2nd place, 5th winner), 2025.<br><span class="item-cn-name"><em>中文：2025年中国通信学会科技进步二等奖</em></span>
-1. Electronic Information Teaching Achievement Award (1st place, 5th winner), Chinese Institute of Electronics (CIE), 2025.<br><span class="item-cn-name"><em>中文：2025年中国电子学会电子信息教学成果大赛一等奖</em></span>
-1. The 16th National Symposium on Cryptology and Information Security Education, A Education and Teaching Incentive Program (Class A), 2025.<br><span class="item-cn-name"><em>中文：第十六届全国密码学与信息安全教学研讨会A类教育教学激励计划</em></span>
-1. Cryptologic Innovation Award (2nd place), Chinese Association for Cryptologic Research, 2024.<br><span class="item-cn-name"><em>中文：2024年中国密码学会密码创新奖二等奖</em></span>
-1. 2nd "Financial Cryptography Cup" National Cryptographic Technology Contest (2nd place, 1st co-winner), 2022.<br><span class="item-cn-name"><em>中文：2022年“金融密码杯”全国密码应用和技术创新大赛二等奖</em></span>
-1. [Excellent Project](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651537031&idx=2&sn=55d84996e370fc297230f859acb32e0b&chksm=bd4e02e58a398bf3c902913422d0ec7105d2cebf273686f5d50413160b337768dc0dcce2d830&scene=27) of CCF-Tencent Rhino-Bird Young Faculty Open Research Fund (8/34), 2022.<br><span class="item-cn-name"><em>中文：2022年CCF-腾讯犀牛鸟基金优秀项目奖</em></span>
-1. Cryptologic Science and Technology Progress Award of China (3rd place, 3rd co-winner), 2021.<br><span class="item-cn-name"><em>中文：2021年中共中央办公厅党政机要密码科技进步三等奖</em></span>
-1. 1st "Financial Cryptography Cup" National Cryptographic Technology Contest (3rd place, 1st co-winner), 2020.<br><span class="item-cn-name"><em>中文：2020年“金融密码杯”全国密码应用和技术创新大赛三等奖</em></span>
-1. 17th Information Security Conference (ISC 2014) [Best Student Paper Award](http://isc14.ie.cuhk.edu.hk/) for “Exploiting the Floating-Point Computing Power of GPUs for RSA”.<br><span class="item-cn-name"><em>中文：2014年第17届Information Security Conference (ISC 2014)最佳学生论文</em></span>
+1. Science and Technology Award of the China Institute of Communications (2nd place, 5th winner), 2025.<br><span class="item-cn-name"><em>2025年中国通信学会科技进步二等奖</em></span>
+1. Electronic Information Teaching Achievement Award (1st place, 5th winner), Chinese Institute of Electronics (CIE), 2025.<br><span class="item-cn-name"><em>2025年中国电子学会电子信息教学成果大赛一等奖</em></span>
+1. The 16th National Symposium on Cryptology and Information Security Education, A Education and Teaching Incentive Program (Class A), 2025.<br><span class="item-cn-name"><em>第十六届全国密码学与信息安全教学研讨会A类教育教学激励计划</em></span>
+1. Cryptologic Innovation Award (2nd place), Chinese Association for Cryptologic Research, 2024.<br><span class="item-cn-name"><em>2024年中国密码学会密码创新奖二等奖</em></span>
+1. 2nd "Financial Cryptography Cup" National Cryptographic Technology Contest (2nd place, 1st co-winner), 2022.<br><span class="item-cn-name"><em>022年“金融密码杯”全国密码应用和技术创新大赛二等奖</em></span>
+1. [Excellent Project](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651537031&idx=2&sn=55d84996e370fc297230f859acb32e0b&chksm=bd4e02e58a398bf3c902913422d0ec7105d2cebf273686f5d50413160b337768dc0dcce2d830&scene=27) of CCF-Tencent Rhino-Bird Young Faculty Open Research Fund (8/34), 2022.<br><span class="item-cn-name"><em>2022年CCF-腾讯犀牛鸟基金优秀项目奖</em></span>
+1. Cryptologic Science and Technology Progress Award of China (3rd place, 3rd co-winner), 2021.<br><span class="item-cn-name"><em>2021年中共中央办公厅党政机要密码科技进步三等奖</em></span>
+1. 1st "Financial Cryptography Cup" National Cryptographic Technology Contest (3rd place, 1st co-winner), 2020.<br><span class="item-cn-name"><em>2020年“金融密码杯”全国密码应用和技术创新大赛三等奖</em></span>
+1. 17th Information Security Conference (ISC 2014) [Best Student Paper Award](http://isc14.ie.cuhk.edu.hk/) for “Exploiting the Floating-Point Computing Power of GPUs for RSA”.<br><span class="item-cn-name"><em>2014年第17届Information Security Conference (ISC 2014)最佳学生论文</em></span>
 
 Standards
 ======
