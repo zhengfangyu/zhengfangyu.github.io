@@ -13,7 +13,7 @@ I am an associate professor in the School of Cryptology, University of Chinese A
 
 I received Bachelor’s degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Academy of Sciences (UCAS).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include CCS, HPCA, CHES, ACSAC, ESORICS, IPDPS, ICPP, TIFS, TC, TPDS, etc.
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing and evaluation, as well as high-performance cryptographic computing. My publications include ASIACRYPT, CCS, ISCA, HPCA, CHES, ACSAC, ESORICS, IPDPS, ICPP, TIFS, TC, TPDS, etc.
 
 My job focuses on **applying cryptography in reality**. Parts of my achievements include:
 * High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certified).
@@ -23,6 +23,8 @@ My job focuses on **applying cryptography in reality**. Parts of my achievements
 
 Selected Publications (\* denotes the corresponding author.)
 ======
+1. **[Conf-ASIACRYPT2026]** Zhen Qin, Siwei Sun, **Fangyu Zheng**, “Extending the SPHINCS+ Framework: Varying the Tree Heights and Chain Lengths”, International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT), 2026, accepted.
+1. **[Conf-ISCA2026]** Guang Fan, Yi Chen, Lei Chen, Liang Kong, Chao Niu, Dian Jiao, Yilan Zhu, Geng Yang, Shengyu Fan, Xianglong Deng, **Fangyu Zheng**, Jian Weng, Yisong Chang, Meng Li, Shoumeng Yan, Mingzhe Zhang, “HyperDrive: Hierarchical Exploitation of Memory Efficiency for GPU-Based FHE Acceleration”, 53rd Annual International Symposium on Computer Architecture (ISCA), 2026, [doi: 10.1109/ISCA66397.2026.00140](https://ieeexplore.ieee.org/document/11617863). [PDF](/assets/papers/ISCA2026-HyperDrive.pdf)
 1. **[Conf-CHES2026]** Yanren Chen, **Fangyu Zheng** *, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, Jingqiang Lin and Jiwu Jing, “BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies”, 28th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2026. [PDF](/assets/papers/CHES2026.pdf)
 1. **[Conf-CCS2025]** Tian Zhou, **Fangyu Zheng** *, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian, Jingqiang Lin, Jiwu Jing, “ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design”, 32nd ACM Conference on Computer and Communications Security (CCS), 2025, [doi: 10.1145/3719027.3765130](https://dl.acm.org/doi/10.1145/3719027.3765130). [PDF](/assets/papers/CCS2025.pdf)
 1. **[Jour-TPDS2025]** **Fangyu Zheng**, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo
