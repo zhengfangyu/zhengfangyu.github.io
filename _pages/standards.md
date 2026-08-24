@@ -21,7 +21,7 @@ Published Standards
 1. Chinese National Cryptography Standard GM/T 0133-2024  *"Requirements for critical information infrastructure cryptography application"*  [《关键信息基础设施密码应用要求》](http://www.gmbz.org.cn/main/viewfile/2025063011025193015.html)
 1. Chinese National Cryptography Standard GM/T 0134-2024  *"Design guidance for security of cryptographic modules"*  [《密码模块安全设计指南》](http://www.gmbz.org.cn/main/viewfile/20250630181635395776.html)
 1. Chinese National Cryptography Standard GM/T 0139-2024  *"Information system cryptography security management systems"*  [《信息系统密码应用安全管理体系》](http://www.gmbz.org.cn/main/viewfile/20250630112658047331.html)
-1. Chinese National Cryptography Standard GM/Z 5006-2025  *"Guidance for cryptoperiod selection for information system"*  [《信息系统密钥生命周期选取研究》](http://www.gmbz.org.cn/main/viewfile/2025012221214530877.html)
+1. Chinese Cryptography Standardization Research Report GM/Y 5006-2024 *"Research on Cryptoperiod Selection for Information Systems"* [《信息系统密钥生命周期选取研究》](http://www.gmbz.org.cn/main/viewfile/2025012221214530877.html)
 
 
 
