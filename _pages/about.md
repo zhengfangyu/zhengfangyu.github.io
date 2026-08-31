@@ -225,6 +225,7 @@ Featured Research
 
 Fundings and Projects (PI)
 ======
+1. National Natural Science Foundation of China, General Program, "Research on Lattice-based Cryptography Implementation Technology Integrated with Artificial Intelligence Accelerators" (Grant No. 62672474), 2027. <span class="item-cn-name"><em>国家自然科学基金面上项目“融合人工智能加速器的格密码实现技术研究”</em></span>
 1. Major National Science and Technology Projects, 2026. <span class="item-cn-name"><em>国家科技重大专项课题</em></span>
 1. National Cryptographic Science Foundation of China, General Project, "Research on the Integration of AI Accelerators for High-Speed Implementation of Lattice-Based Cryptography" (Grant No. 2025NCSF02005), 2025. <span class="item-cn-name"><em>国家密码科学基金面上项目“AI加速器融合的格密码算法高速实现”</em></span>
 1. CCF-Ant R&D Fund, (Grant No. CCF-AFSG RF20230206), 2023. <span class="item-cn-name"><em>中国计算机学会（CCF）-蚂蚁科研基金</em></span>
