@@ -35,12 +35,13 @@ Current Students
 ------
 1. Wenxu Tang (Ph.D. candidate): CCS 2024 <span class="item-cn-name"><em>唐文煦</em></span>
 1. Kai Sun (Ph.D. candidate) <span class="item-cn-name"><em>孙凯</em></span>
-1. Zhuoyu Xie (Ph.D. candidate) <span class="item-cn-name"><em>谢卓宇</em></span>
-1. Haocheng Huang (Master candidate) <span class="item-cn-name"><em>黄浩宸</em></span>
-1. Yanren Chen (Master candidate): CHES 2026 <span class="item-cn-name"><em>陈沿任</em></span>
-1. Ziming Wang (Master candidate) <span class="item-cn-name"><em>王子铭</em></span>
-1. Zheng Miao (Master candidate) <span class="item-cn-name"><em>苗政</em></span>
-1. Hongbo Du (Master candidate) <span class="item-cn-name"><em>杜泓波</em></span>
-1. Yihao Guo (Master candidate) <span class="item-cn-name"><em>果轶豪</em></span>
-1. Weikang Liang (Master candidate) <span class="item-cn-name"><em>梁炜康</em></span>
-1. Jiasheng Zhang (Master candidate) <span class="item-cn-name"><em>张嘉盛</em></span>
+1. Xuegang Yang (Ph.D. candidate) <span class="item-cn-name"><em>杨学刚</em></span>
+2. 1. Zhuoyu Xie (Ph.D. candidate) <span class="item-cn-name"><em>谢卓宇</em></span>
+3. Haocheng Huang (Master candidate) <span class="item-cn-name"><em>黄浩宸</em></span>
+4. Yanren Chen (Master candidate): CHES 2026 <span class="item-cn-name"><em>陈沿任</em></span>
+5. Ziming Wang (Master candidate) <span class="item-cn-name"><em>王子铭</em></span>
+6. Zheng Miao (Master candidate) <span class="item-cn-name"><em>苗政</em></span>
+7. Hongbo Du (Master candidate) <span class="item-cn-name"><em>杜泓波</em></span>
+8. Yihao Guo (Master candidate) <span class="item-cn-name"><em>果轶豪</em></span>
+9. Weikang Liang (Master candidate) <span class="item-cn-name"><em>梁炜康</em></span>
+10. Jiasheng Zhang (Master candidate) <span class="item-cn-name"><em>张嘉盛</em></span>
