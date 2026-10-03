@@ -8,6 +8,8 @@ author_profile: true
 
 Program Committee
 ------
+- **SCIEN** Co-Chair (2026)
+- **SecureComm** Co-Chair (2027)
 - **ACM CCS** PC Member (2026)
 - **USENIX Security** PC Member (2027)
 - **IEEE GLOBECOM** PC Member (2025, 2026)
@@ -34,4 +36,3 @@ Reviewer
 - PeerJ Computer Science
 - SecureComm (2023)
 - EAI AC3 (2022)
-

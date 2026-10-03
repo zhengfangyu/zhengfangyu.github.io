@@ -270,6 +270,7 @@ See [full standards](/standards/).
 
 Academic Services
 ======
+1. SCIEN 2026 and SecureComm 2027 Co-Chair
 1. ACM CCS 2026 PC member
 1. USENIX Security 2027 PC member
 1. Globecom 2025-2026, WCNC 2024-2026, Inscrypt 2025-2026 PC member
