@@ -141,6 +141,23 @@ Featured Research
   <article class="featured-research-card">
     <div class="featured-research-media">
       <div class="featured-research-figure">
+        <img src="/assets/images/research/tifs2026-fig1.png" alt="F-STORM Figure 1: Workflow for negacyclic polynomial multiplication">
+      </div>
+      <div class="featured-research-figure">
+        <img src="/assets/images/research/tifs2026-fig3.png" alt="F-STORM Figure 3: Two-stage accumulator rotation mechanism">
+      </div>
+    </div>
+    <div class="featured-research-copy">
+      <h3>F-STORM: Spinning NTT-unfriendly Lattices on Tensor Cores via Negacyclic Tensorization</h3>
+      <p class="featured-research-authors">Yi Bian, Fangyu Zheng, Jiankuo Dong, Yuewu Wang, Jingqiang Lin, Jiwu Jing</p>
+      <p><strong>Abstract:</strong> F-STORM directly maps negacyclic polynomial multiplication in NTT-unfriendly lattice-based cryptography onto Tensor Core matrix multiply-accumulate units. Its folding, scanning, transformation, and result-merging workflow avoids conversions to auxiliary NTT-friendly rings, while a hardware-aware accumulator rotation mechanism enables an efficient GPU implementation of Saber.</p>
+      <p class="featured-research-venue">IEEE TIFS 2026 (accepted to appear)</p>
+    </div>
+  </article>
+
+  <article class="featured-research-card">
+    <div class="featured-research-media">
+      <div class="featured-research-figure">
         <img src="/assets/images/research/ches2026-fig4.png" alt="BOLT-FHE Figure 4: Blind Rotation MegaKernel overview">
       </div>
     </div>
