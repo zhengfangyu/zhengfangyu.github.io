@@ -143,9 +143,6 @@ Featured Research
       <div class="featured-research-figure">
         <img src="/assets/images/research/tifs2026-fig1.png" alt="F-STORM Figure 1: Workflow for negacyclic polynomial multiplication">
       </div>
-      <div class="featured-research-figure">
-        <img src="/assets/images/research/tifs2026-fig3.png" alt="F-STORM Figure 3: Two-stage accumulator rotation mechanism">
-      </div>
     </div>
     <div class="featured-research-copy">
       <h3>F-STORM: Spinning NTT-unfriendly Lattices on Tensor Cores via Negacyclic Tensorization</h3>
