@@ -53,7 +53,7 @@ Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Powe
 14. **[Conf-IPDPS2020]** Lili Gao, **Fangyu Zheng** *, Niall Emmart, Jiankuo Dong, Jingqiang Lin, Charles Weems, “DPF-ECC: Accelerating Elliptic Curve Cryptography with Floating-point Computing Power of GPUs”, 34th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2020. [doi: 10.1109/IPDPS47924.2020.00058](https://ieeexplore.ieee.org/abstract/document/9139772) [PDF](/assets/papers/IPDPS2020.pdf)
 15. **[Conf-IPDPS2018]** Jiankuo Dong, **Fangyu Zheng** *, Niall Emmart, Jingqiang Lin, Charles C. Weems, “sDPF-RSA: Utilizing Floating-point Computing Power of GPUs for Massive Digital Signature Computations”, 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2018. [doi: 10.1109/IPDPS.2018.00069](https://ieeexplore.ieee.org/abstract/document/8425213) [PDF](/assets/papers/IPDPS2018.pdf)
 16. **[Jour-TIFS2017]** Wuqiong Pan, **Fangyu Zheng** , Yuan Zhao, Wen-Tao Zhu *, Jiwu Jing, “An Efficient Elliptic Curve Cryptography Signature Server with GPU Acceleration", IEEE Transactions on Information Forensics and Security (TIFS), 2017. [doi: 10.1109/TIFS.2016.2603974](https://ieeexplore.ieee.org/abstract/document/7555336) [PDF](/assets/papers/TIFS2017.pdf)
-17. **[Conf-ISC2014]** **Fangyu Zheng**, Wuqiong Pan *, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Floating-Point Computing Power of GPUs for RSA”, 17th Information Security Conf (ISC), **Best Student Paper Award**, 2014. [doi: 10.1007/978-3-319-13257-0_12](https://link.springer.com/chapter/10.1007/978-3-319-13257-0_12). [PDF](/assets/papers/ISC2014.pdf)
+17. **[Conf-ISC2014]** **Fangyu Zheng**, Wuqiong Pan *, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Floating-Point Computing Power of GPUs for RSA”, 17th Information Security Conf (ISC), **Best Student Paper Award**, 2014. [doi: 10.1007/978-3-319-13257-0_12](https://link.springer.com/chapter/10.1007/978-3-319-13257-0_12). [PDF](/assets/papers/ISC2014.pdf) [Best Student Paper Award](http://isc14.ie.cuhk.edu.hk/)
 
 See [full publications](/full-publications/).
 
@@ -271,7 +271,7 @@ Awards
 1. [Excellent Project](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651537031&idx=2&sn=55d84996e370fc297230f859acb32e0b&chksm=bd4e02e58a398bf3c902913422d0ec7105d2cebf273686f5d50413160b337768dc0dcce2d830&scene=27) of CCF-Tencent Rhino-Bird Young Faculty Open Research Fund (8/34), 2022. <span class="item-cn-name"><em>2022年CCF-腾讯犀牛鸟基金优秀项目奖</em></span>
 1. Cryptologic Science and Technology Progress Award of China (3rd place, 3rd co-winner), 2021. <span class="item-cn-name"><em>2021年中共中央办公厅党政机要密码科技进步三等奖</em></span>
 1. 1st "Financial Cryptography Cup" National Cryptographic Technology Contest (3rd place, 1st co-winner), 2020. <span class="item-cn-name"><em>2020年“金融密码杯”全国密码应用和技术创新大赛三等奖</em></span>
-1. 17th Information Security Conference (ISC 2014) [Best Student Paper Award](http://isc14.ie.cuhk.edu.hk/) for “Exploiting the Floating-Point Computing Power of GPUs for RSA”. <span class="item-cn-name"><em>2014年第17届Information Security Conference (ISC 2014)最佳学生论文</em></span>
+1. [17th Information Security Conference (ISC 2014) Best Student Paper Award](http://isc14.ie.cuhk.edu.hk/) for “Exploiting the Floating-Point Computing Power of GPUs for RSA”. <span class="item-cn-name"><em>2014年第17届Information Security Conference (ISC 2014)最佳学生论文</em></span>
 
 Standards
 ======
