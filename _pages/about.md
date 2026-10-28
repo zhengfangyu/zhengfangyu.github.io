@@ -138,6 +138,7 @@ Featured Research
 </style>
 
 <div class="featured-research-list">
+  <!-- Temporarily withheld until public release.
   <article class="featured-research-card">
     <div class="featured-research-media">
       <div class="featured-research-figure">
@@ -151,6 +152,7 @@ Featured Research
       <p class="featured-research-venue">IEEE TIFS 2026 (accepted to appear)</p>
     </div>
   </article>
+  -->
 
   <article class="featured-research-card">
     <div class="featured-research-media">
