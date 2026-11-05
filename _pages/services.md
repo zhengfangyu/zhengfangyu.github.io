@@ -8,10 +8,10 @@ author_profile: true
 
 Program Committee
 ------
-- **SCIEN** Co-Chair (2026)
-- **SecureComm** Co-Chair (2027)
-- **ACM CCS** PC Member (2026)
-- **USENIX Security** PC Member (2027)
+- **SCIEN Program Co-Chair (2026)**
+- **SecureComm TPC Co-Chair (2027)**
+- **ACM CCS PC Member (2026)**
+- **USENIX Security PC Member (2027)**
 - **IEEE GLOBECOM** PC Member (2025, 2026)
 - **IEEE WCNC** PC Member (2024-2026)
 - **Inscrypt** PC Member (2025, 2026)

@@ -139,7 +139,6 @@ Featured Research
 </style>
 
 <div class="featured-research-list">
-  <!-- Temporarily withheld until public release.
   <article class="featured-research-card">
     <div class="featured-research-media">
       <div class="featured-research-figure">
@@ -153,7 +152,6 @@ Featured Research
       <p class="featured-research-venue">IEEE TIFS 2026 (accepted to appear)</p>
     </div>
   </article>
-  -->
 
   <article class="featured-research-card">
     <div class="featured-research-media">
@@ -288,9 +286,10 @@ See [full standards](/standards/).
 
 Academic Services
 ======
-1. SCIEN 2026 and SecureComm 2027 Co-Chair
-1. ACM CCS 2026 PC member
-1. USENIX Security 2027 PC member
+1. **SCIEN Program Co-Chair (2026)**
+1. **SecureComm TPC Co-Chair (2027)**
+1. **ACM CCS 2026 PC member**
+1. **USENIX Security 2027 PC member**
 1. Globecom 2025-2026, WCNC 2024-2026, Inscrypt 2025-2026 PC member
 1. ACNS-SCI 2024/2025 Web Chair and PC Member
 1. IEEE TDSC, TIFS, TC Reviewer
